@@ -5,7 +5,7 @@ from fastapi import APIRouter, Request, HTTPException
 from fastapi.responses import JSONResponse
 from pydantic import BaseModel
 from dotenv import load_dotenv
-from db_search import search_by_query, search_by_emotion
+from app.routes.db_search import search_by_query, search_by_emotion
 
 api_key = os.getenv('GPT_API_KEY')
 router = APIRouter()
@@ -37,7 +37,7 @@ async def generate_answer(request_data: PromptRequest):
             result[key.strip()] = value.strip()
     # Emotion은 Picture Vector Search 후 Picture 반환
     picture = search_by_emotion(result['emotion'])
-    
+
     return result['answer'], picture
 
 
@@ -53,7 +53,9 @@ async def rag_prompt(query, model_type, content):
                 {
                     "role": "user",
                     "content": f'''
-                    Emotion example: 웃고있는_행복한_안경을쓰고있는.png
+
+                    # 예시 5개 보여주기
+                    Emotion example list: 웃고있는_행복한_안경을쓰고있는.png
 
                     document: {content}
                     question: {query}
