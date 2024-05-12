@@ -1,0 +1,37 @@
+MILab@Hanyang AI - Members
+
+Director: Prof. Yongjae Yoo, Ph. D.
+B.Sc. (2011) & Ph.D., (2019)
+Department of Computer Science and Engineering, POSTECH, Korea
+Postdoctoral Researcher, POSTECH, Korea (2019-2020)
+Postdoctoral Researcher, McGill University, Canada (2020-2022)
+Assistant Professor, Department of Artificial Intelligence, Hanyang University ERICA, Korea (2022-Present)
+Research Interests: Multimodal and Haptic Interactions, VR/AR, Affective Computing, AI for HCI
+
+Graduate Students
+Jaewan Lim (임재완) - Direct Ph.D. Student, B.S. in Computer Science, Research Interest: Game, AR/VR, Human-Computer Interaction
+Heymin Park (박혜민)-Direct Ph.D. Student, B.S. in Computer Science and Engineering, Research Interest: Affecting computing
+Changhyun Oh (오창현)-M.S. student, B.S. in Computer Science and Engineering, Research Interest: Computer Vision Applications on HRI
+Haerim Kim (김해림) -M.S. Student, B.S. in Korean Literature & ICTConvergence, Research Interest: Human-Computer Interaction,
+Haptic interaction
+Jiyoung Park (박지영)- M.S. Student, B.S. in Intelligent Information and Communication Engineering, Research Interest: Human-Centered AI
+Minho Chung (정민호)-M.S. Student, Division of Computer Science, Research Interest: Computer Vision Applications, Physics-based Artificial Neural Network
+Minju Seo (서민주) -M.S. student, B.S. in RobotAutomation Engineering, Research Interest: Robot AI, Human-Computer Interaction
+Seunggyeom Kim(김승겸)-M.S. student, B.S. in Computer Science, Research Interest: Computer Vision, Multimodal Deep Learning
+
+Undergraduate Intern
+Eunji Lim (임은지)-Dept. of Artificial Intelligence, Research Interest: AR/VR Applications
+Eunchae Kim (김은채)-Dept. of Artificial Intelligence, Research Interest: Assistive and Quality-of-Life Technologies
+Haeun Seo (서하은) -Dept. of Artificial Intelligence, Research Interest: Biomedical AI Applications
+Dayoung Kim (김다영)-Dept. of Artificial Intelligence, Research Interest: Biomedical AI Applications
+Seoyong Nam (남서용)-Division of Computer Science, Research Interest:Human-Centered AI and Interaction Systems
+Taehyeon Kim  (김태현)-Division of Computer Science, Research Interest: AI for Mixed Reality, Speech Recognition, Cloud for VR/AR
+Sooyeon Choi (최수연)-Division of Computer Science, Research Interest: Human-Centered AI and Assistive Systems
+Taeyoon Lee (이태윤)-Division of Computer Science, Research Interest: Haptic interaction, Human-Computer Interaction, AR/VR
+Dohoon Kwak (곽도훈)-Dept. of Artificial Intelligence, Research Interest: Biomedical AI Applications, AR/VR
+Areum Kim(김아름)-Dept. of Artificial Intelligence, Research Interest:Assistive Technology
+Hyunwook Jung(정현욱)-Dept. of Artificial Intelligence, Research Interest: Haptic Interaction, Human-Computer Interaction, AR/VR
+
+Alumni
+Sunwoo Jung (정선우)-Department of Computer Science, University of Washington St. Louis.
+Jaejun Jung (정재준)-NEXON Korea Corporation

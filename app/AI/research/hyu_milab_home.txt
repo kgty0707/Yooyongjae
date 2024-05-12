@@ -1,0 +1,11 @@
+MILab@Hanyang AI -Home
+
+Multimodal Intelligence and Interaction Group 다중감각 지능 및 인터랙션 연구실 @ Hanyang University
+The Multimodal Intelligence and Interaction Laboratory at Hanyang University ERICA, directed by Prof. Yongjae Yoo, studies how to build intelligence for multimodal data e.g., vision, audio, touch, sensors, and human behavior/responses, and interactions between human users and a system of interest, e.g.,computers,AI agents, robots, or other users.
+한양대학교 인공지능융합학과의 다중감각 지능 및 인터랙션 연구실은 시, 청 및 촉각, 센서 및 인간 행동 데이터를 비롯한 다중 감각 데이터를 활용하는 인공지능 알고리즘과, 이를 기반으로 하는 인간-인공지능 상호작용 시스템을 연구합니다.
+실감형 VR/AR 인터랙션, 햅틱스, 로봇 분야와 AI의 융합 분야 연구에 관심 있는 우수한 대학원생과 박사후 연구원, 학부 인턴을 모집하고 있습니다.
+인턴십 및 진학 안내: 자기소개,CV, 성적표를 첨부하여 이메일  yongjaeyoo at hanyang dot ac dot kr 로 연락주세요.
+
+One paper was presented, and students gained opportunities for networking and inspiration through observation.
+New Members! We have several new members from this winter break. Welcome, Heymin, Seunggyeom, Minju.  
+
