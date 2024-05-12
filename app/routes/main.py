@@ -1,8 +1,8 @@
 from fastapi import APIRouter, Request
 from fastapi.templating import Jinja2Templates
 from fastapi.responses import HTMLResponse
-from model_load import Model
-from model import generate_answer
+from app.routes.load_model import Model
+from app.routes.model import generate_answer
 
 
 router = APIRouter()
@@ -27,6 +27,7 @@ def send_query(request: Request, model_type: str, query: str):
     '''
 
     model_type = Model(model_type)
+    
     request_data = {
         'prompt': query,
         'model_type': model_type,
