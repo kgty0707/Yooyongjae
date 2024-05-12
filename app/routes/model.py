@@ -8,6 +8,8 @@ from dotenv import load_dotenv
 from app.routes.db_search import search_by_query, search_by_emotion
 
 api_key = os.getenv('GPT_API_KEY')
+openai.api_key = os.getenv('API_KEY')
+
 router = APIRouter()
 
 '''
@@ -42,7 +44,9 @@ async def generate_answer(request_data: PromptRequest):
 
 
 async def rag_prompt(query, model_type, content):
-    openai.api_key = os.getenv('API_KEY')
+    # TODO
+    # 현재는 GPT 모델로 설정되어 있음
+    # 모델 타입에 따른 분기 설정
     try:
         response = await openai.ChatCompletion.create(
             model=model_type,

@@ -27,6 +27,7 @@ def send_query(request: Request, model_type: str, query: str):
     '''
 
     model_type = Model(model_type)
+    
     request_data = {
         'prompt': query,
         'model_type': model_type,
