@@ -1,0 +1,25 @@
+TouchPhoto: Enabling Independent Picture-taking and Understanding of Visually-Impaired Users
+
+Use tab to navigate through the menu items.
+검색
+Yongjae Yoo
+2019년 11월 13일
+1분 분량
+TouchPhoto: Enabling Independent Picture-taking and Understanding of Visually-Impaired Users
+최종 수정일:
+2019년 11월 22일
+Photography enables users to visually capture the moment, preserve it, and share it with others. As one of the most influential creations in human history, photography-related activities are more popular than ever. However, visually-impaired users are alienated from photography, although they constitute 3.8% (285 million) of the world population (according to WHO statistics), and they have a strong desire to participate in such activities.
+This project aims to provide an integrated system that helps the visually-impaired users to take pictures and understand the contents of images. To this end, our team developed a camera application for an Android smartphone and a haptic display system which converts the contents of photographs to tactile graphics. We also conducted a series of experiments with visually-impaired participants.
+In our picture-taking experiment, we assessed the usefulness of auditory guidance for camera framing and observed the usage of different types of audio tags. We also investigated the perceptual characteristics of electrovibrations for tactile graphics. Lastly, we evaluated the effectiveness of auditory tags and tactile rendering in understanding photographs and recalling associated memories.
+This project was funded by the National Research Foundation of Korea (X Project), and I took the team manager and a lead student research associate role.
+The figures below are our scenario and our implementations (picture-taking app, album app, electrovibration hardware, tactile rendering scheme, and an example picture taken by a visually-impaired participant, with regional tags).
+Paper link
+ICMI 2019 (user study):
+link
+AsiaHaptics 2018 (demo paper):
+link
+Video link
+ICMI 2019:
+
+© 2022 by Yongjae Yoo
+bottom of page

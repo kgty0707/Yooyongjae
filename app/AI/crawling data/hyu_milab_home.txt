@@ -1,0 +1,245 @@
+MILab@Hanyang AI -Home
+
+Multimodal Intelligence and Interaction Group 다중감각 지능 및 인터랙션 연구실 @ Hanyang University
+The Multimodal Intelligence and Interaction Laboratory at Hanyang University ERICA, directed by Prof. Yongjae Yoo, studies how to build intelligence for multimodal data e.g., vision, audio, touch, sensors, and human behavior/responses, and interactions between human users and a system of interest, e.g.,computers,AI agents, robots, or other users.
+한양대학교 인공지능융합학과의 다중감각 지능 및 인터랙션 연구실은 시, 청 및 촉각, 센서 및 인간 행동 데이터를 비롯한 다중 감각 데이터를 활용하는 인공지능 알고리즘과, 이를 기반으로 하는 인간-인공지능 상호작용 시스템을 연구합니다.
+실감형 VR/AR 인터랙션, 햅틱스, 로봇 분야와 AI의 융합 분야 연구에 관심 있는 우수한 대학원생과 박사후 연구원, 학부 인턴을 모집하고 있습니다.
+인턴십 및 진학 안내: 자기소개,CV, 성적표를 첨부하여 이메일  yongjaeyoo at hanyang dot ac dot kr 로 연락주세요.
+
+One paper was presented, and students gained opportunities for networking and inspiration through observation.
+New Members! We have several new members from this winter break. Welcome, Heymin, Seunggyeom, Minju.  
+
+
+MILab@Hanyang AI - Members
+
+Director: Prof. Yongjae Yoo, Ph. D.
+B.Sc. (2011) & Ph.D., (2019)
+Department of Computer Science and Engineering, POSTECH, Korea
+Postdoctoral Researcher, POSTECH, Korea (2019-2020)
+Postdoctoral Researcher, McGill University, Canada (2020-2022)
+Assistant Professor, Department of Artificial Intelligence, Hanyang University ERICA, Korea (2022-Present)
+Research Interests: Multimodal and Haptic Interactions, VR/AR, Affective Computing, AI for HCI
+
+Graduate Students
+Jaewan Lim (임재완) - Direct Ph.D. Student, B.S. in Computer Science, Research Interest: Game, AR/VR, Human-Computer Interaction
+Heymin Park (박혜민)-Direct Ph.D. Student, B.S. in Computer Science and Engineering, Research Interest: Affecting computing
+Changhyun Oh (오창현)-M.S. student, B.S. in Computer Science and Engineering, Research Interest: Computer Vision Applications on HRI
+Haerim Kim (김해림) -M.S. Student, B.S. in Korean Literature & ICTConvergence, Research Interest: Human-Computer Interaction,
+Haptic interaction
+Jiyoung Park (박지영)- M.S. Student, B.S. in Intelligent Information and Communication Engineering, Research Interest: Human-Centered AI
+Minho Chung (정민호)-M.S. Student, Division of Computer Science, Research Interest: Computer Vision Applications, Physics-based Artificial Neural Network
+Minju Seo (서민주) -M.S. student, B.S. in RobotAutomation Engineering, Research Interest: Robot AI, Human-Computer Interaction
+Seunggyeom Kim(김승겸)-M.S. student, B.S. in Computer Science, Research Interest: Computer Vision, Multimodal Deep Learning
+
+Undergraduate Intern
+Eunji Lim (임은지)-Dept. of Artificial Intelligence, Research Interest: AR/VR Applications
+Eunchae Kim (김은채)-Dept. of Artificial Intelligence, Research Interest: Assistive and Quality-of-Life Technologies
+Haeun Seo (서하은) -Dept. of Artificial Intelligence, Research Interest: Biomedical AI Applications
+Dayoung Kim (김다영)-Dept. of Artificial Intelligence, Research Interest: Biomedical AI Applications
+Seoyong Nam (남서용)-Division of Computer Science, Research Interest:Human-Centered AI and Interaction Systems
+Taehyeon Kim  (김태현)-Division of Computer Science, Research Interest: AI for Mixed Reality, Speech Recognition, Cloud for VR/AR
+Sooyeon Choi (최수연)-Division of Computer Science, Research Interest: Human-Centered AI and Assistive Systems
+Taeyoon Lee (이태윤)-Division of Computer Science, Research Interest: Haptic interaction, Human-Computer Interaction, AR/VR
+Dohoon Kwak (곽도훈)-Dept. of Artificial Intelligence, Research Interest: Biomedical AI Applications, AR/VR
+Areum Kim(김아름)-Dept. of Artificial Intelligence, Research Interest:Assistive Technology
+Hyunwook Jung(정현욱)-Dept. of Artificial Intelligence, Research Interest: Haptic Interaction, Human-Computer Interaction, AR/VR
+
+Alumni
+Sunwoo Jung (정선우)-Department of Computer Science, University of Washington St. Louis.
+Jaejun Jung (정재준)-NEXON Korea Corporation
+
+MILab@Hanyang AI - News
+MILab @ Korea HCI Conference
+We participated in the HCI Society of Korea conference at Hongcheon, on January 24th to 26th. poster paper developed by Haerim, Minho, and Eunchae was presented. This experience provided the students with valuable opportunities for networking and gaining insights from various presentations and discussions at the conference.
+
+New Members!
+We have several new members from this winter break. Heymin Park started her Ph.D. degree course with us. Seunggyeom Kim and Minju Seo joined our lab and pursue their Master's degrees. Minho Chung will continue his study for his Master's degree. 
+
+MILab @ Korea Haptics Conference
+We participated in the 1st Korea Haptics Conference at Buyeo, on Nov. 22-24. Four papers (one oral, three demo presentations) were presented. In addition, the student team of Taehyun, Jiyoung, Jaewan, and Seoyong received the Best Idea Award in the Future Mobility Idea Challenge, sponsored by Hyundai Motors, and another student team of Haerim, Eunchae, and Minho was the finalist in the Future Appliances Idea Challenge sponsored by LG Electronics. Congratulations!
+
+New Publications!
+We have a few new publications. Prof. Yoo's publication "Soft Pneumatic Haptic Wearable to Create the Illusion of Human Touch" has been published in IEEE ToH. Jaewan's first work, "Effects of Vibrotactile Feedback on Aim-and-Throw Tasks in Virtual Environments" has been published in VRST'23 Poster. We also have a few domestic conference publications, (will) be presented in Korea Haptics Conference, HCI Korea, and Korea Robotics Conference (KRoC). See
+
+IC-PBL Excellence Award
+Prof. Yoo's lecture "VR/AR Programming" in this semester (Spring 2023) received an excellence award in IC-PBL lecture contest of the university. Congratulations! IEEE Transactions on Haptics Best Paper Award! Prof. Yoo's paper "Perceived Intensity Model of Dual-Frequency Superimposed Vibration: Pythagorean Sum"  won the IEEE Transactions on Haptics Best Paper Award. Congratulations!
+
+MILab @ WHC'23
+We presented in WHC'23 at Delft, Netherland.Haerim, Minho, and Eunchae presented "Context-Based Tactile Translation of Sports Broadcasting on A Refreshable Pin Array" in the demo session, and Prof. Yoo presented a ToH poster "Perceived Intensity Model of Dual-Frequency Superimposed Vibration: Pythagorean Sum."
+
+New members!
+We have several new members from this summer break. Jaewan Lim will continue his study in our group, aiming for a Ph.D. degree, and Haerim Kim and Jiyoung Park joined our group as Master's degree students. Also, Dayoung Kim, Haeun Seo, and Sooyeon Choi will conduct their undegraduate internship with us.
+
+New research funding - 우수신진 최초혁신연구실
+On top of our current excellent first-stage research grant (우수신진연구), our group will receive an additional funding for procurement of research equipments from NRF Korea.
+
+MILab@Hanyang AI - Publications
+International Journal Articles
+Aishwari Talhan, Yongjae Yoo, Jeremy Cooperstock, "Soft Pneumatic Haptic Wearable to Create the Illusion of Human Touch," IEEE Transactions on Haptics, 2023. (Early Access, DOI: https://doi.org/10.1109/TOH.2023.3305495). 
+
+Yongjae Yoo, Inwook Hwang, and Seungmoon Choi, “Perceived Intensity Model of Dual-Frequency Superimposed Vibration: Pythagorean Sum,” IEEE Transactions on Haptics, Vol. 15, No. 2, pp 405-415, 2022. (SCI-E, IF= 3.105, Recipient of the IEEE Transactions of Haptics Best Paper Award).
+
+ Won-Hyeong Park, Eun-Jae Shin, Yongjae Yoo, Gobong Choi, Seungmoon Choi, and Sang-Youn Kim, “Soft Vibrotactile Actuator with Knitted PVC Gel Fabric,” IEEE Transactions on Industrial Electronics, Vol. 67, No. 1, pp. 677-685, 2019 (SCI, IF=7.503, top 3%).
+
+Yongjae Yoo, Inwook Hwang, and Seungmoon Choi, “Consonances of Vibrotactile Chords,” IEEE Transactions on Haptics, Vol. 7, No. 1, pp 3-13, 2014. (SCI-E, IF= 3.105).
+
+International Conference Proceedings (Peer-reviewed)
+Jaewan Lim, Dongjun Lee, Jeonghyeon Kim, and Yongjae Yoo. "Effects of Vibrotactile Feedback on Aim-and-Throw Tasks in Virtual Environments," In Proceedings of the 29th ACM Symposium on Virtual Reality Software and Technology (VRST '23), Article 56, pp. 1–2.
+
+Shahrokh Yadegari, John Burnett, Eito Murakami, Louis Pisha, Francesca Talenti, Juliette Regimbal, and Yongjae Yoo, "Becoming: An Interactive Musical Journey in VR," in Extended Abstracts of ACM SIGGRAPH (Immersive Pavilion), pp. 1-2.
+
+Hyejin Lee, Ruixi Jiang, Yongjae Yoo, Max Henry, and Jeremy Cooperstock, "The Sound of Hallucinations: Toward a more convincing emulation of internalized voices," In ACM CHI Conference on Human Factors in Computing Systems (CHI ’22), 11 pages. (Recipient of an honorable mention, acceptance rate: 24.6%)
+
+Yongjae Yoo, Jongho Lim, Hanseul Cho, Seungmoon Choi, "Perception of Electrostatic Friction Stimuli in Free Surface Exploration," in Proceedings of IEEE Haptics Symposium 2022, pp 1-6.
+
+Yaxuan Li*, Yongjae Yoo*, Antoine Weill-duflos, and Jeremy Cooperstock, “Towards Context-aware Multimodal Automatic Haptic Effect Generation for Home Theater Environments,” in Proceedings of ACM Virtual Reality Software and Technology (VRST) 2021, Article No. 13, 13 pages. (*Equal contribution, Oral presentation; acceptance rate: 26.2%) 
+
+Yongjae Yoo, Juliette Regimbal, and Jeremy R. Cooperstock, “Identification and Information Transfer of Multidimensional Tactons Presented by a Single Vibrotactile Actuator,” in Proceedings of IEEE World Haptics Conference (WHC) 2021, pp.7-12
+
+Marc Demers, Pascal Fortin, Antoine Weill–Duflos, Yongjae Yoo, and Jeremy Cooperstock, “Active Sampling for Efficient Subjective Evaluation of Tactons at Scale,” in Proceedings of IEEE World Haptics Conference (WHC) 2021, pp 1-6.
+
+Beomsu Lim, Junkyeong Choi, Yongjae Yoo, and Seungmoon Choi, “Perceived Magnitude Function of Friction Rendered by the Dahl Model” in Proceedings of IEEE World Haptics Conference (WHC) 2021, pp 13-18.
+
+Yaxuan Li, Yongjae Yoo, Antoine Weill-Duflos, and Jeremy R. Cooperstock, “Context-aware Automatic Haptic Effect Generation Algorithm for Improved Content Viewing Experience,” in Proceedings of IEEE World Haptics Conference (WHC) 2021 Work-in-progress, pp. 339.
+
+Nathan J. A. Pollet, Emanuel Uzan, Patricia Batista Ruivo, Tal Abravanel, Aishwari Talhan, Yongjae Yoo, and Jeremy R. Cooperstock, “Multimodal Haptic Armrest for Immersive 4D Experiences,” in Proceedings of IEEE World Haptics Conference (WHC) 2021 Work-in-progress, pp.1144.
+
+Beomsu Lim, Junkyeong Choi, Yongjae Yoo, and Seungmoon Choi, “Perceived Magnitude Function of Friction Rendered by the Dahl Model,” in Proceedings of IEEE Haptics Symposium 2020 Work-in-Progress, pp.584-585.
+
+Jongho Lim, Yongjae Yoo, Hanseul Cho, and Seungmoon Choi, “TouchPhoto: Enabling Independent Picture Taking and Understanding for Visually-Impaired Users,” in Proceedings of the ACM International Conference on Multimodal Interaction (ICMI) 2019, pp. 124-134. (Oral presentation; acceptance rate: 22.4 %) 
+
+Jongho Lim, Yongjae Yoo, and Seungmoon Choi, “Guidance-based Two-Dimensional Haptic Contour Rendering for Accessible Photography,” in Proceedings of the IEEE World Haptics Conference (WHC) 2019, pp. 401-406.
+
+Yongjae Yoo, Jongho Lim, Hanseul Cho, and Seungmoon Choi, “TouchPhoto: Enabling Independent Photo-Related Activities for Visually-Impaired Users,” in Lecture Notes on Electrical Engineering (Asiahaptics 2018), vol. 535, pp. 278-283, 2018.
+
+Won-Hyeong Park, Yongjae Yoo, Gobong Choi, Seungmoon Choi, and Sang-Youn Kim, “A Soft Vibrotactile Actuator with Knitted PVC Gel Fabric,” In Lecture Notes in Computer Science (Eurohaptics 2018), Vol. 10894, pp. 148-156, 2018.
+
+Yongjae Yoo, Hojin Lee, Hyejin Choi, and Seungmoon Choi, “Emotional Responses of Vibrotactile-Thermal Stimuli: Effects of Constant-Temperature Thermal Stimuli,” in Proceedings of 7th International Conference on Affective Computing and Intelligent Interaction (ACII), pp. 273-278, 2017. (Oral presentation; acceptance rate: 27 %)
+
+Yongjae Yoo and Seungmoon Choi, “A Longitudinal Study of Haptic Pitch Correction Guidance for String Instrument Players” in Proceedings of the World Haptics Conference (WHC) 2017, pp. 177-182, 2017. (Recipient of the best poster award / Nominated to the best poster presentation award)
+
+Yongjae Yoo, Jongho Lim, Hanseul Cho, and Seungmoon Choi, “TouchPhoto: Enabling Independent Photo-Related Activities for Visually-Impaired Users,” in Extended Abstracts of the First Workshop of Haptics for Accessibility (Satellite Workshop of IEEE WHC 2017), 2017.
+
+Yongjae Yoo, Jaebong Lee, Jongman Seo, Eunhwa Lee, Jeongseok Lee, Yudong Bae, Daekwang Jung, and Seungmoon Choi, “Large-Scale Survey on Adjectival Representation of Vibrotactile Stimuli”, in Proceedings of the Haptics Symposium 2016 (Work-in-Progress), pp. 393-395, 2016.
+
+Yongjae Yoo, Taekbeom Yoo, Jihyun Kong, and Seungmoon Choi, "Emotional Responses of Tactile Icons: Effects of Amplitude, Frequency, Duration, and Envelope," in Proceedings of the IEEE World Haptics Conference (WHC) 2015, pp.235-240, 2015
+
+Won-Hyeong Park, Tae-Heon Yang, Yongjae Yoo, Seungmoon Choi, and Sang-Youn Kim, "Flexible and Bendable Vibrotactile Actuator Using Electro-conductive Polyurethane," in Proceedings of the IEEE World Haptics Conference (WHC) 2015, pp. 165-170, 2015
+
+Rahul Chaudhari, Yongjae Yoo, Clemens Schuwerk, Seungmoon Choi, and Eckehard Steinbach, "Objective Quality Prediction for Haptic Texture Signal," in Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2015, pp. 2224-2228, 2015.
+
+Taekbeom Yoo, Yongjae Yoo, and Seungmoon Choi, “An Explorative Study on Crossmodal Congruence Between Visual and Tactile Icons Based on Emotional Responses,” in Proceedings of the ACM International Conference on Multimodal Interaction (ICMI) 2014, pp. 96-103, 2014.
+
+Yongjae Yoo and Seungmoon Choi, “An Initial Study on Pitch Correction Guidance for String Instruments Using Haptic Feedback”, in Lecture Notes on Computer Science (Eurohaptics 2014, Part I), Vol. LNCS 8618, pp 241-247, 2014.
+
+Yongjae Yoo, Inwook Hwang, and Seungmoon Choi, “Consonance Perception of Vibrotactile Chords: A Feasibility Study,” in Lecture Notes on Computer Science (HAID 2011), Vol. LNCS 6851, pp. 42-51, 2011.
+
+International Conference Demonstrations (Peer-reviewed)
+Haerim Kim, Minho Chung, Eunchae Kim, and Yongjae Yoo, “Context-Based Tactile Translation of Sports Broadcasting on A Refreshable Pin Array” to appear in World Haptics Conference 2023, Delft, Netherlands.
+
+Yongjae Yoo, Jaebong Lee, Jongman Seo, Eunhwa Lee, Jeongseok Lee, Yudong Bae, Daekwang Jung, and Seungmoon Choi, “Graphical Authoring Tool of Vibrotactile Stimuli Using Adjectival Space,” Demonstrated in Haptics Symposium 2016, Philadelphia, PA.
+
+Gunhyuk Park, Yongjae Yoo, Seungmoon Choi, Changdo Song, Minjoo Cho, Giuyeol Kim, Jaehun Kim, Sangmin Lee, and Kyogu Lee, “TouchMusic: Music Experience System for the Hearing-Impaired,” Demonstrated in World Haptics Conference 2015, Chicago, IL.
+
+Yongjae Yoo and Seungmoon Choi, “HapTune: Haptic Guidance for Pitch Correction of String Instruments,” Demonstrated in World Haptics Conference 2013, Daejeon, Korea.
+
+Domestic Conference Demonstrations (Peer-reviewed)
+Eunchae Kim, Minho Chung, Haerim Kim, Yongjae Yoo, "Visual to Audio-Tactile Translation System for Context Information Delivery in Sports Broadcasting On A Refreshable Pin Array", Demonstrated in Korea Haptics Conference 2023, Buyeo, Korea.
+
+Seoyong Nam, Minho Chung, Taehyeon Kim, Yongjae Yoo, "Automated Generation of Multimodal 4D Effects in Home Theater Environments", Demonstrated in Korea Haptics Conference 2023, Buyeo, Korea.
+
+Jaewan Lim, Jiyoung Park, Yongjae Yoo, "A Preliminary Study for Data Capturing and VR System to Model and Transfer Dexterous Skills for Sculpture Arts", Demonstrated in Korea Haptics Conference 2023, Buyeo, Korea.
+
+Domestic Journal Articles (Korean)
+Yongjae Yoo, Inwook Hwang, Jongman Seo, and Seungmoon Choi, “Multiple Vibration Signal Feedback for Mobile Devices,” Smart Media Journal, Vol. 1, No. 4, pp. 8-17, 2012.
+
+Yongjae Yoo, Inwook Hwang, and Seungmoon Choi, “Tactile Icon Design Using Music Dynamics for Mobile Devices,” Journal of Korean Institute of Next Generation Computing, Vol. 7, No. 5, pp. 24-34, 2011.
+
+Peer-reviewed Domestic Conference Proceedings (Korean)
+Sooyeon Choi, Haeun Seo, Dayoung Kim, Yongjae Yoo, "Designing AI-based Control Model for 4DoF Upper-limb Rehabilitation Robots", in Extended Abstracts of The 19th Korea Robotics Society Annual Conference (KRoC), 2024.
+
+Taehyeon Kim, Jaejun Jung, Seoyong Nam, Yongjae Yoo, "Speech-Gesture Recognition Model for Intuitive Control of Industrial Rail Robots", in Extended Abstracts of The 19th Korea Robotics Society Annual Conference (KRoC), 2024.
+
+Haerim Kim, Minho Chung, Eunchae Kim, Yongjae Yoo, "Real-time Information Extraction and Tactile Conversion of Golf Broadcasting Video for The Visually Impaired", in Extended Abstracts of HCI Korea conference, 2024.
+
+Minho Chung, Eunchae Kim, Haerim Kim, Yongjae Yoo, "A Vision to Audio-Tactile Translation Algorithm for Sports Broadcasting Videos",  in Proceedings of the  Korea Haptics Conference, 2023.
+
+Jongho Lim, Yongjae Yoo, Hanseul Cho, and Seungmoon Choi, “TouchPhoto: System for Photo Taking and Understanding for Visually Impaired People,” in Extended Abstracts of HCI Korea conference, pp. 311-314, 2018.
+
+Gyeore Yun, Yongjae Yoo, and Seungmoon Choi “Implementation of Music Composition System Based on Gesture Recognition Using Natural User Interface,” in Extended Abstracts of HCI Korea conference, pp. 329-332, 2018.
+
+Yongjae Yoo, Seyoung Oh, and Seungmoon Choi, “FeetNavi: Feet Vibrotactile Feedback for The Blind Navigation,” in Extended Abstracts of HCI Korea conference, pp. 269-271, 2017
+
+Hyejin Choi, Yongjae Yoo, and Seungmoon Choi, “Thermal Tactile Rendering of Musical Features,” in Extended Abstracts of HCI Korea conference, pp. 265-268, 2017.
+
+Jongho Lim, Hanseul Cho, Inseok Koh, Sungho Seo, Yongjae Yoo, and Seungmoon Choi, “Implementation of A Photography Guidance and Viewing System for The Visually Impaired,” in Extended Abstracts of HCI Korea conference, pp. 272-275, 2017.
+
+Ki-eun Park, Yongjae Yoo, and Seungmoon Choi, “Drag and Roll: Gesture Interaction for Fine-tuning Task on Touchscreen,” in Proceedings of the Korea Computer Congress 2016, pp.1381-1383 (Winner of the best presentation paper award).
+
+Sangyoon Han, Yongjae Yoo, and Seungmoon Choi, “Gesture Interface and Vibration Feedback for Improvement of Office Environment,” in Proceedings of the Korea Computer Congress 2016, pp.1405-1407.
+
+Hojun Cha, Yongjae Yoo, and Seungmoon Choi, “A Secure Input Method Using Surface Texture Rendering,” in Extended Abstracts of HCI Korea conference, pp. 86-87, 2016.
+
+Taekbeom Yoo, Yongjae Yoo, and Seungmoon Choi, "An Initial Study on Congruence between Visual and Haptic Icons Based on Emotional Responses," in Proceedings of the Korea Computer Congress, pp. 1294-1296, 2014 (Winner of the best paper award).
+
+Yongjae Yoo and Seungmoon Choi, "HapTune: A Haptic Feedback System for Pitch Learning of String Players," in Proceedings of the HCI Korea, pp. 149-151, 2014.
+
+Juhwan Park, Bora Kang, Yongjae Yoo, and Sung. H. Han, “Comparison of Virtual Keyboard Customization Approaches for Smart Tablet Devices: Adaptive vs. Adaptable”, in Proceedings of Korean Ergonomics Society Annual Fall Conference, 2012.
+
+Yongjae Yoo, Inwook Hwang, and Seungmoon Choi, "Consonance Perception of Vibrotactile Chords: A Feasibility Study," in Proceedings of the HCI Korea, pp. 282-284, 2012.
+
+International Patents
+Eun-hwa Lee, Seung-moon Choi, Jae-bong Lee, Yong-jae Yoo, Jeong-seok Lee, Dae-kwang Jung, and Yu-dong Bae, “Method and Device for Generating Vibration from Adjective Space,” U.S. Patent 9,600,984, Pub. Date: 2017-03-21.
+
+Eun-hwa Lee, Seung-moon Choi, Jae-bong Lee, Jeong-seok Lee, Dae-kwang Jung, Yu-dong Bae, Jong-man Seo, Yong-jae Yoo, and Jae-min Chun, “Method and Device for Generating Vibration Based on An Adjective,” U.S. Patent 9,880,570, Date: 2018-01-30.
+
+Domestic Patents
+Seungmoon Choi and Yongjae Yoo, “Musical Instrument Training System and Method Using Haptic Stimuli,” Korean Domestic Patent Appl. No. 2013-0070147, Appl. Date: 2013-10-21, Pub. No. 10-1496546, Pub. Date: 2015-02-17.
+
+Eunhwa Lee, Seungmoon Choi, Jaebong Lee, Jeongseok Lee, Daekwang Jung, Yudong Bae, Jongman Seo, Yongjae Yoo, and Jaemin Chun, “Method and Device for Generating Vibration Using Adjectives,” Korean Domestic Patent Appl. No. 2014-0010881, Appl. Date: 2014-01-28.
+
+Eunhwa Lee, Seungmoon Choi, Jaebong Lee, Yongjae Yoo, Jeongseok Lee, Daekwang Jung, and Yudong Bae, “Method and Device for Generating Vibration from Adjective Space,” Korean Domestic Patent Appl. No. 2014-0012213, Appl. Date: 2014-02-03.
+
+MILab@Hanyang AI - Research
+Research Areas - We are studying artificial intelligence systems exploit multimodal data, and benefits users by various human-computer interactions.
+
+Active Funding List
+재활로봇을 위한 인공지능 기반 제어 및 사용자 보조 알고리즘, 산학연협력단지 조성사업 공동연구- (주)헥사휴먼케어, 한양대학교 ERICA 산학연단지
+설계자동화 소프트웨어의 최신화 및 알고리즘 개선, 산학공동연구 - (주)세홍
+감각운동기능의 모델링, 재현, 교육을 위한 인공지능 알고리즘 및 인간-컴퓨터 상호작용 시스템, 이공분야 우수신진연구 및 최초혁신연구실, 한국연구재단
+실감형 문화콘텐츠 체험을 위한 사용자 맥락 기반 시촉각 인터랙션 저작 기술개발, 문화체육관광 선도기술 연구개발사업, 한국콘텐츠진흥원
+다감각 Human-Computer Interaction에서의 Mood vectoring 기법, 이공신진교수 연구지원과제, 한양대학교 ERICA
+한양대학교 ERICA 의료인공지능융합교육연구단 (참여), BK21+ Four 사업, 과학기술정보통신부
+
+
+Human Data and Behavior Modelling - This line of studies aims to understand human behavior and how human think, feel, and responses by learning and interpreting data generated by human. All kinds of data, usage log, sensor data, measurement and even physiological data can be used in the studies. The AI model established in the studies can be directly utilized for intelligent interactions, including inference and user assistant features, using the background data--knowledge we surveyed/gathered.
+
+Multimedia AI and Interaction Systems- We are interested in various multimodal/multimedia interaction scenarios which AI involves and benefits the users. One of trivial benefits of using multimodal data would be sensory and data redundancy, which enhances plausibility/power of AI results including inference. For example, in AI-Driven Automatic Content Generation study, it learns and analyze audio and visual data and generates immersive multimedia experience at home by automatically-created 4D effects, applicable for the current streaming services.
+
+Affective Computing & Interaction Systems- We are also working on affective computing and interaction system. Utilizing various data from sensors, user behaviors, and prior knowledges on human emotion, we develop artificial intelligence that aware users' emotion and interact with the users to vectoring/regulating their mood. Of course, contextual data, including user's current mental and emotional status are often inferred/extracted in such scenarios. We expect applications on medical venue, but not limited to. Combined with Multimodal AI interaction system, we aim to develop a full stack of system that benefit the users' mental health.
+
+Human-Centered AI and Assistive Systems-Pursuing a “warmhearted” and human-centric AI technology, we are working on AI which helps users. Based on human-computer/robot collaborative work scheme, AI-mediated motor learning (i.e., AI teaches sensorimotor skills to users). AI can mediate human-human or human-robot communication in a smooth manner. These idea can be utilized for assistive technology. Expanding current translation algorithm by adding audiohaptic explanations of web images for blind and low vision users, and translating music to haptics for the hearing-impaired are examples.
+
+MILab@Hanyang AI - 진학 안내
+연구실의 목표 및 연구 분야
+우리 연구실의 목표는 컴퓨터 중심의, 계산 중심의 인공지능을 넘어 사람을 위한, 사람을 향한 인공지능과 이를 활용하는 인간-컴퓨터/로봇 상호작용 시스템의 개발이라 할 수 있습니다.
+
+매일, 매 순간 우리는 시, 청, 촉각, 운동 감각 등 다양한 인체의 감각을 사용하여 정보를 받아들이고, 학습하며 교류합니다. 본 연구실에서 연구하는 '다중 감각' 지능이라 함은 다양한 감각을 통해 사람이 인지하고 받아들이는 정보, 즉 이미지, 소리, 촉각, 움직임들과 더불어 이러한 다양한 센서 데이터로부터 얻어낼 수 있는 감정이나 건강 상태, 주변 환경의 변화 등을 감지, 인지하고 이를 학습, 모델링하는 것을 의미합니다. 또, 사람을 이해하고 돕기 위해 사람의 응답과 행동 등을 학습하고 모델링하는 human behavior/response modeling 또한 다중 감각 인공지능의 중요한 축이라 할 수 있습니다.
+
+이러한 다중 감각 지능과, 인간-인공지능 상호작용 시스템은 사람에게 도움이 되고, 때로는 위험에서 구하거나 때로는 이해, 동조하고 협력할 수 있는 좋은 동반자가 될 수 있습니다. 우리 연구실의 연구 또한 이러한 좋은 동반자 시스템과 AI 기술을 추구합니다.
+
+학부 인턴 - 연구참여 학생
+학부생 중, 대학원 진학을 고려하거나, 심도있는 공부를 해 보고 싶은 학생들이 있을 것입니다. 이러한 학생들에게 인턴십은 연구실 환경을 미리 겪어보고, 본인이 염두에 둔 심도있는 공부가 적성에 맞는지 알아보고, 그리고 연구자로서의 생활을 체험하기 위한 좋은 기회가 될 것입니다. 본 연구실은 인턴십을 희망하는 학생들에게 연구실 여건이 허락하는 한, 공간과 원하는 공부를 할 수 있는 환경을 제공하고자 노력하고 있습니다.  또, 학부 인턴 학생이 연구실의 연구 과제에 기여하는 경우, 해당 부분에 대한 인건비 또한 지급합니다. 한양대학교 인공지능학과 및 컴퓨터학부 3학년/4학년 학생들이 학부 연구생 과정 (연구실심화실습 과목)을 본 연구실에서 이수하기를 희망하는 경우, yongjaeyoo at hanyang dot ac dot kr로 이메일을 보내 상담을 받으시기를 바랍니다.
+
+타 학과, 또는 타교 학생이 본 연구실에 관심이 있는 경우, 이메일로 본인의 소개와 관심 분야, CV와 성적표 (Transcript)를 마찬가지로 yongjaeyoo at hanyang dot ac dot kr 로 보내 상담을 받으시기를 바랍니다. 인공지능 및 HCI 융합 분야 연구의 특성 상, 본인의 Specialty를 살릴 수 있는 학생은 전공 및 재적학교와 무관하게 기회를 제공할 용의가 있습니다. 또한, 본 연구실에서의 인턴십을 수행하는 학생들은 제가 관찰하고 성장을 지켜볼 기회가 그만큼 많았으므로 본교 대학원 입시에서 조금이나마 유리한 요소로 작용할 수 있습니다.
+
+대학원 진학을 고려하는 학생들에게
+인공지능, 그리고 인간-컴퓨터 상호작용 분야는 많은 분들이 연구하고 있지만, 아직까지 미답사된 영역이 많은 새로운 학문분야입니다. 그 말은, 여러분들이 특정 분야에 대해 최고 수준의 전문가로 성장할 분야, 즉 나의 확실한 도메인으로 삼을 분야 또한 매우 다양하다고 할 수 있습니다.  또한, 대학원은 학부 4년보다 더 깊이 있는 학문을 공부하고, 내 자신을 더 고급 인력으로 성장시켜 더 좋은 성과와 전문적인 커리어를 얻기 위한 내실을 다지는 과정입니다. 따라서, 학문을 탐구하고자 하는 욕심과 동기가 없는 (전문연구요원/산업기능요원 등 병역혜택을 노리는) 단순 도피성 진학이나, 취업이 되지 않아 시간을 벌기 위한 목적의 진학은 추천하지 않습니다.
+
+앞서 내실을 다지는 기간이라는 부분과 결부되어, 분야의 특성 상, 학부 4년만에 HCI와 AI의 모든 과정을 학습하고 실제 연구 및 업무 경험까지 쌓기는 다소 무리인 경우가 많습니다.  따라서 지도교수는 석사 이상 진학하는 학생들이 학부 및 대학원에서 배우는 과목의 이론과 실제가 실무, 특히 High-level의 연구에서 어떻게 적용되는지 고찰하고, 전문가로써의 경험을 쌓아 사회로 진출하기를 기대하고 있습니다. 또한, 재학 기간 중 하나 이상의 완성된 프로젝트와, 참여한 과제들의 포트폴리오를 구성하여 본인만의 경쟁력을 쌓기를 강력히 권장합니다. (e.g., 코딩이라면 본인의 프로젝트를 모아둔 Github repository 또는 공개 프로젝트의 contribution 내역 등이 될 테고, 회사와의 비밀유지조항 등이나 구동을 위해 특정 기기를 사용하여야 하는 등 각종 제약이 있어 코드 오픈이 어려울 경우 동영상 및 각종 Demo 등을 기록할 수 있겠죠.) 지도교수는 이러한 활동에 대해 가능한 최대한의 지원을 제공할 것을 약속합니다. 
+
+대학원생 연구 지원, 장학금 및 생활비 지원
+한양대학교 인공지능융합학과는 정부 (과학기술정보통신부)의 인공지능특성화대학원 사업에 선정되어 석/박사과정 전원을 전액 장학생으로 선발하고 있습니다. 또한 정부의 BK21+ Four 사업을 통해 추가적으로 장학금 및 생활비, 국제학회 참석 및 논문발표 경비 등을 제공하고 있으며, 본 연구실에서도 수주하는 대학, 정부 및 기업체 지원 연구비 Funding을 통해 연구 장비 및 금전적인 지원을 충분히 제공하기 위해 노력하고 있습니다. 또한 대학의 공용 컴퓨팅 Resource들도 필요시 사용할 수 있으므로, 장비 및 여건의 부족함으로 인한 연구 및 학습의 어려움은 없을 것이라 생각합니다.
+
+Language Skill Requirements for Non-Korean Native Applicants 
+I expect students eager to study artificial intelligence and human-computer interaction, particularly multimodality and human-AI interactions. Also, students who want to apply to our group should have language skill(s) either proficient in 1) English (Advanced level - at least C1 in CEFR or above) and 2) Korean (TOPIK level 5 - C1 or above). I have to set such a minimum huddle because of my philosophy: here, my lab in Hanyang University graduate school is for study and research, not for translation and childcaring services. I will not answer if you do not have those language proficiency with appropriate ability for research in our group.

@@ -1,0 +1,209 @@
+‪Yongjae Yoo‬ - ‪Google Scholar‬
+
+Based on funding mandates
+Co-authors
+View all
+Seungmoon Choi
+POSTECH
+Verified email at postech.ac.kr
+Jeremy R. Cooperstock
+Professor of Electrical and Computer Engineering, McGill University
+Verified email at cim.mcgill.ca
+Inwook Hwang
+Electronics and Telecommunications Research Institute (ETRI)
+Verified email at etri.re.kr
+Won-Hyeong Park
+Korea University of Technology and Education
+Verified email at koreatech.ac.kr
+Sang-Youn Kim
+Korea University of Technology and Education
+Verified email at koreatech.ac.kr
+Antoine Weill--Duflos
+Haply Robotics
+Verified email at haply.co
+Eun-Jae Shin
+Interaction Lab. at KOREATECH
+Verified email at koreatech.ac.kr
+Kaylee Yaxuan Li
+University of Michigan
+Verified email at umich.edu
+Hojin Lee
+Electronics and Telecommunications Research Institute (ETRI)
+Verified email at etri.re.kr
+Aishwari Talhan
+SUNY RF University at Albany
+Verified email at albany.edu
+Tae-Heon Yang
+Konkuk University
+Verified email at konkuk.ac.kr
+Pascal E. Fortin
+Assistant Professor in Computer Science @ Université du Québec à Chicoutimi (UQAC)
+Verified email at uqac.ca
+JunKyeong Choi
+NOTA incorporated, ML/DL system engineer
+Verified email at nota.ai
+Max Henry
+McGill University
+Verified email at mail.mcgill.ca
+Hyejin Lee
+McGill University
+Verified email at mail.mcgill.ca
+Shahrokh Yadegari
+Professor, UCSD, California Institute for Telecommunication and Information Technology
+Verified email at ucsd.edu
+Ruixi Jiang
+McGill University
+Verified email at mail.mcgill.ca
+Eckehard Steinbach
+Professor for Media Technology
+Verified email at tum.de
+Clemens Schuwerk
+Technische Universität München
+Verified email at tum.de
+Jaewan Lim
+Hanyang University MS-Ph.D. integrated student
+Verified email at hanyang.ac.kr
+View all
+Follow
+Yongjae Yoo
+Hanyang University
+- ERICA
+Verified email at hanyang.ac.kr -
+Homepage
+Haptics
+HCI
+Virtual Reality
+Perception
+Affective Computing
+Articles
+Cited by
+Public access
+Co-authors
+Title
+Sort
+Sort by citations
+Sort by year
+Sort by title
+Cited by
+Cited by
+Year
+Emotional responses of tactile icons: Effects of amplitude, frequency, duration, and envelope
+Y Yoo, T Yoo, J Kong, S Choi
+2015 IEEE World Haptics Conference (WHC), 235-240
+, 2015
+105
+2015
+Consonance of vibrotactile chords
+Y Yoo, I Hwang, S Choi
+IEEE transactions on haptics 7 (1), 3-13
+, 2013
+47
+2013
+Soft haptic actuator based on knitted PVC gel fabric
+WH Park, EJ Shin, Y Yoo, S Choi, SY Kim
+IEEE Transactions on Industrial Electronics 67 (1), 677-685
+, 2019
+40
+2019
+Touchphoto: Enabling independent picture taking and understanding for visually-impaired users
+J Lim, Y Yoo, H Cho, S Choi
+2019 International Conference on Multimodal Interaction, 124-134
+, 2019
+18
+2019
+Emotional responses of vibrotactile-thermal stimuli: Effects of constant-temperature thermal stimuli
+Y Yoo, H Lee, H Choi, S Choi
+2017 Seventh International Conference on Affective Computing and Intelligent …
+, 2017
+11
+2017
+Towards context-aware automatic haptic effect generation for home theatre environments
+Y Li, Y Yoo, A Weill-Duflos, J Cooperstock
+Proceedings of the 27th ACM symposium on virtual reality software and …
+, 2021
+10
+2021
+Flexible and bendable vibrotactile actuator using electro-conductive polyurethane
+WH Park, TH Yang, Y Yoo, S Choi, SY Kim
+2015 IEEE World Haptics Conference (WHC), 165-170
+, 2015
+10
+2015
+An explorative study on crossmodal congruence between visual and tactile icons based on emotional responses
+T Yoo, Y Yoo, S Choi
+Proceedings of the 16th International Conference on Multimodal Interaction …
+, 2014
+10
+2014
+Consonance perception of vibrotactile chords: a feasibility study
+Y Yoo, I Hwang, S Choi
+Haptic and Audio Interaction Design: 6th International Workshop, HAID 2011 …
+, 2011
+10
+2011
+Active sampling for efficient subjective evaluation of tactons at scale
+M Demers, PE Fortin, A Weill, Y Yoo, JR Cooperstock
+2021 IEEE World Haptics Conference (WHC), 1-6
+, 2021
+7
+2021
+A soft vibrotactile actuator with knitted PVC gel fabric
+WH Park, Y Yoo, G Choi, S Choi, SY Kim
+Haptics: Science, Technology, and Applications: 11th International …
+, 2018
+6
+2018
+Identification and information transfer of multidimensional tactons presented by a single vibrotactile actuator
+Y Yoo, J Regimbal, JR Cooperstock
+2021 IEEE World Haptics Conference (WHC), 7-12
+, 2021
+5
+2021
+Perceived intensity model of dual-frequency superimposed vibration: Pythagorean sum
+Y Yoo, I Hwang, S Choi
+IEEE Transactions on Haptics 15 (2), 405-415
+, 2022
+4
+2022
+Touchphoto: Enabling independent picture-taking and understanding of photos for visually-impaired users
+Y Yoo, J Lim, H Cho, S Choi
+International AsiaHaptics conference, 278-283
+, 2018
+4
+2018
+Large-Scale Survey on Adjectival Representation of Vibrotactile Stimuli
+Y Yoo, J Lee, J Seo, E Lee, J Lee, Y Bae, D Jung, S Choi
+4
+2016
+Multimodal haptic armrest for immersive 4D experiences
+N Pollet, E Uzan, PB Ruivo, T Abravanel, A Talhan, Y Yoo, ...
+2021 IEEE World Haptics Conference (WHC), 1144-1144
+, 2021
+3
+2021
+Guidance-based two-dimensional haptic contour rendering for accessible photography
+J Lim, Y Yoo, S Choi
+2019 IEEE World Haptics Conference (WHC), 401-406
+, 2019
+3
+2019
+A longitudinal study of haptic pitch correction guidance for string instrument players
+Y Yoo, S Choi
+2017 IEEE World Haptics Conference (WHC), 177-182
+, 2017
+3
+2017
+An initial study on pitch correction guidance for string instruments using haptic feedback
+Y Yoo, S Choi
+International Conference on Human Haptic Sensing and Touch Enabled Computer …
+, 2014
+3
+2014
+Perceived magnitude function of friction rendered by the dahl model
+B Lim, J Choi, Y Yoo, S Choi
+2021 IEEE World Haptics Conference (WHC), 13-18
+, 2021
+2
+2021
+The system can't perform the operation now. Try again later.
+Articles 1–20
