@@ -1,0 +1,21 @@
+Graphical Authoring Tool of Vibrotactile Stimuli Using Adjectival Spaces
+
+
+Use tab to navigate through the menu items.
+검색
+Yongjae Yoo
+2019년 11월 15일
+1분 분량
+Graphical Authoring Tool of Vibrotactile Stimuli Using Adjectival Spaces
+최종 수정일:
+2021년 1월 9일
+We proposed an authoring tool using adjectival spaces to design vibrotactile stimuli. An adjectival space is a cartesian space consist of one or more adjectival axes. It allows the users to find desired subjective qualities (e.g., perceived weight, roughness, etc.) of vibrations easily. This is an expansion of the previous investigation on verbal expressions.
+This research project was funded by Samsung Electronics, and I was the main programmer for the implementation of this demonstration.
+We initially figured out the mapping between physical variables of vibrations and those of adjectival ratings. Then, we found an inverse relation between them to composed an adjectival space. The procedures are described in the figure below.
+In our demonstration, we suggested a 1D (bumpiness) space and a 2D (roughness and heaviness) adjectival space on the graphical interface, provides an intuitive authoring environment.
+We also wrote a paper about the usability evaluation of this authoring method, and it is now under review.
+Video link:
+Demo in Haptics Symposium 2016:
+
+© 2022 by Yongjae Yoo
+bottom of page

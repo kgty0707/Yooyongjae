@@ -1,0 +1,185 @@
+Publications | Yongjae Yoo, Ph. D.
+
+I'm looking for motivated graduate & undergraduate students and post-doc researchers.
+Yongjae Yoo (유용재),
+Ph. D.
+Assistant Professor,
+Department of Artificial Intelligence,
+Hanyang University ERICA
+Home
+Research Projects
+Publications
+Teaching & Mentoring
+More
+Use tab to navigate through the menu items.
+PUBLICATIONS
+International Journal Articles
+Yongjae Yoo
+, Inwook Hwang, and Seungmoon Choi, “Consonances of Vibrotactile Chords,” IEEE Transactions on Haptics, Vol. 7, No. 1, pp 3-13, 2014. (SCI-E, Q2, IF= 3.105).
+Won-Hyeong Park, Eun-Jae Shin,
+Yongjae Yoo
+, Gobong Choi, Seungmoon Choi, and Sang-Youn Kim, “Soft Vibrotactile Actuator with Knitted PVC Gel Fabric,” IEEE Transactions on Industrial Electronics, Vol. 67, No. 1, pp. 677-685, 2019 (SCI, IF=7.503).
+Yongjae Yoo
+, Inwook Hwang, and Seungmoon Choi, “Perceived Intensity Model of Dual-Frequency Superimposed Vibration: Pythagorean Sum,” IEEE Transactions on Haptics, Vol. 15, No. 2, pp 405-415, 2022. (SCI-E, IF= 3.105).
+Peer-
+Reviewed International Conference Proceedings
+Shahrokh Yadegari, John Burnett, Eito Murakami, Louis Pisha, Francesca Talenti, Juliette Regimbal,
+Yongjae Yoo
+, "Becoming: An Interactive Musical Journey in VR," in Extended Abstracts of ACM SIGGRAPH (Immersive Pavilion), pp. 1-2.
+Hyejin Lee, Ruixi Jiang,
+Yongjae Yoo
+, Max Henry, and Jeremy Cooperstock, "The Sound of Hallucinations: Toward a more convincing emulation of internalized voices," In ACM CHI Conference on Human Factors in Computing Systems (CHI ’22), 11 pages.
+https://doi.org/10.1145/3491102.3501871
+(Honorable mention, acceptance rate: 24.6%)
+Yongjae Yoo,
+Jongho Lim, Hanseul Cho, Seungmoon Choi, "Perception of Electrostatic Friction Stimuli in Free Surface Exploration," in Proceedings of IEEE Haptics Symposium 2022, pp 1-6.
+Yaxuan Li*,
+Yongjae Yoo
+*, Antoine Weill-duflos, and Jeremy Cooperstock, “Towards Context-aware Multimodal Automatic Haptic Effect Generation for Home Theater Environments,” in Proceedings of ACM Virtual Reality Software and Technology (VRST) 2021, Article No. 13, 13 pages.
+https://dl.acm.org/doi/10.1145/3489849.3489887
+(
+*Equal contribution
+, Oral presentation; acceptance rate: 26.2%)
+Yongjae Yoo
+, Juliette Regimbal, and Jeremy R. Cooperstock, “Identification and Information Transfer of Multidimensional Tactons Presented by a Single Vibrotactile Actuator,” in Proceedings of IEEE World Haptics Conference (WHC) 2021, pp.7-12
+Marc Demers, Pascal Fortin, Antoine Weill–Duflos,
+Yongjae Yoo
+, and Jeremy Cooperstock, “Active Sampling for Efficient Subjective Evaluation of Tactons at Scale,” in Proceedings of IEEE World Haptics Conference (WHC) 2021, pp 1-6.
+Beomsu Lim, Junkyeong Choi,
+Yongjae Yoo
+, and Seungmoon Choi, “Perceived Magnitude Function of Friction Rendered by the Dahl Model” in Proceedings of IEEE World Haptics Conference (WHC) 2021, pp 13-18.
+Yaxuan Li,
+Yongjae Yoo
+, Antoine Weill-Duflos, and Jeremy R. Cooperstock, “Context-aware Automatic Haptic Effect Generation Algorithm for Improved Content Viewing Experience,” in Proceedings of IEEE World Haptics Conference (WHC) 2021 Work-in-progress, pp. 339.
+Nathan J. A. Pollet, Emanuel Uzan, Patricia Batista Ruivo, Tal Abravanel, Aishwari Talhan,
+Yongjae Yoo
+, and Jeremy R. Cooperstock, “Multimodal Haptic Armrest for Immersive 4D Experiences,” in Proceedings of IEEE World Haptics Conference (WHC) 2021 Work-in-progress, pp.1144.
+Beomsu Lim, Junkyeong Choi,
+Yongjae Yoo
+, and Seungmoon Choi, “Perceived Magnitude Function of Friction Rendered by the Dahl Model,” in Proceedings of IEEE Haptics Symposium 2020 Work-in-Progress, pp.584-585.
+Jongho Lim,
+Yongjae Yoo
+, Hanseul Cho, and Seungmoon Choi, “TouchPhoto: Enabling Independent Picture Taking and Understanding for Visually-Impaired Users,” in Proceedings of the ACM International Conference on Multimodal Interaction (ICMI) 2019, pp. 124-134. (Oral presentation; acceptance rate: 22.4 %)
+Jongho Lim,
+Yongjae Yoo
+, and Seungmoon Choi, “Guidance-based Two-Dimensional Haptic Contour Rendering for Accessible Photography,” in Proceedings of the IEEE World Haptics Conference (WHC) 2019, pp. 401-406.
+Yongjae Yoo
+, Jongho Lim, Hanseul Cho, and Seungmoon Choi, “TouchPhoto: Enabling Independent Photo-Related Activities for Visually-Impaired Users,” in Lecture Notes on Electrical Engineering (Asiahaptics 2018), vol. 535, pp. 278-283, 2018.
+Won-Hyeong Park,
+Yongjae Yoo
+, Gobong Choi, Seungmoon Choi, and Sang-Youn Kim, “A Soft Vibrotactile Actuator with Knitted PVC Gel Fabric,” In Lecture Notes in Computer Science (Eurohaptics 2018), Vol. 10894, pp. 148-156, 2018.
+Yongjae Yoo
+, Hojin Lee, Hyejin Choi, and Seungmoon Choi, “Emotional Responses of Vibrotactile-Thermal Stimuli: Effects of Constant-Temperature Thermal Stimuli,” in Proceedings of Seventh International Conference on Affective Computing and Intelligent Interaction (ACII), pp. 273-278, 2017. (Oral presentation; acceptance rate: 27 %)
+Yongjae Yoo
+and Seungmoon Choi, “A Longitudinal Study of Haptic Pitch Correction Guidance for String Instrument Players” in Proceedings of the World Haptics Conference (WHC) 2017, pp. 177-182, 2017. (
+Recipient of the best poster award / Nominated to the best poster presentation award
+)
+Yongjae Yoo
+, Jongho Lim, Hanseul Cho, and Seungmoon Choi, “TouchPhoto: Enabling Independent Photo-Related Activities for Visually-Impaired Users,” in Extended Abstracts of the First Workshop of Haptics for Accessibility (Satellite Workshop of IEEE WHC 2017), 2017.
+Yongjae Yoo
+, Jaebong Lee, Jongman Seo, Eunhwa Lee, Jeongseok Lee, Yudong Bae, Daekwang Jung, and Seungmoon Choi, “Large-Scale Survey on Adjectival Representation of Vibrotactile Stimuli”, in Proceedings of the Haptics Symposium 2016 (Work-in-Progress), pp. 393-395, 2016.
+Yongjae Yoo
+, Taekbeom Yoo, Jihyun Kong, and Seungmoon Choi, "Emotional Responses of Tactile Icons: Effects of Amplitude, Frequency, Duration, and Envelope," in Proceedings of the IEEE World Haptics Conference (WHC) 2015, pp.235-240, 2015
+Won-Hyeong Park, Tae-Heon Yang,
+Yongjae Yoo
+, Seungmoon Choi, and Sang-Youn Kim, "Flexible and Bendable Vibrotactile Actuator Using Electro-conductive Polyurethane," in Proceedings of the IEEE World Haptics Conference (WHC) 2015, pp. 165-170, 2015
+Rahul Chaudhari,
+Yongjae Yoo
+, Clemens Schuwerk, Seungmoon Choi, and Eckehard Steinbach, "Objective Quality Prediction for Haptic Texture Signal," in Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2015, pp. 2224-2228, 2015.
+Taekbeom Yoo,
+Yongjae Yoo
+, and Seungmoon Choi, “An Explorative Study on Crossmodal Congruence Between Visual and Tactile Icons Based on Emotional Responses,” in Proceedings of the ACM International Conference on Multimodal Interaction (ICMI) 2014, pp. 96-103, 2014.
+Yongjae Yoo
+and Seungmoon Choi, “An Initial Study on Pitch Correction Guidance for String Instruments Using Haptic Feedback”, in Lecture Notes on Computer Science (Eurohaptics 2014, Part I), Vol. LNCS 8618, pp 241-247, 2014.
+Yongjae Yoo
+, Inwook Hwang, and Seungmoon Choi, “Consonance Perception of Vibrotactile Chords: A Feasibility Study,” in Lecture Notes on Computer Science (HAID 2011), Vol. LNCS 6851, pp. 42-51, 2011.
+Peer-reviewed Presentations in International Conferences
+Jeremy Cooperstock, David Brun, Cyan Kuo,
+Yongjae Yoo
+, and Jeff Blum, “IMAGE: Accessible Internet Graphics via Audio and Touch,” to be presented in the 37th CSUN Assistive Technology Conference, Northridge, CA, March 2022.
+Peer-reviewed Demonstrations in International Conferences
+Yongjae Yoo
+, Jaebong Lee, Jongman Seo, Eunhwa Lee, Jeongseok Lee, Yudong Bae, Daekwang Jung, and Seungmoon Choi, “Graphical Authoring Tool of Vibrotactile Stimuli Using Adjectival Space,” Demonstrated in Haptics Symposium 2016, Philadelphia, PA.
+Gunhyuk Park,
+Yongjae Yoo
+, Seungmoon Choi, Changdo Song, Minjoo Cho, Giuyeol Kim, Jaehun Kim, Sangmin Lee, and Kyogu Lee, “TouchMusic: Music Experience System for the Hearing-Impaired,” Demonstrated in World Haptics Conference 2015, Chicago, IL.
+Yongjae Yoo
+and Seungmoon Choi, “HapTune: Haptic Guidance for Pitch Correction of String Instruments,” Demonstrated in World Haptics Conference 2013, Daejeon, Korea.
+Domestic Journal Articles (Korean)
+Yongjae Yoo
+, Inwook Hwang, Jongman Seo, and Seungmoon Choi, “Multiple Vibration Signal Feedback for Mobile Devices,” Smart Media Journal, Vol. 1, No. 4, pp. 8-17, 2012.
+Yongjae Yoo
+, Inwook Hwang, and Seungmoon Choi, “Tactile Icon Design Using Music Dynamics for Mobile Devices,” Journal of Korean Institute of Next Generation Computing, Vol. 7, No. 5, pp. 24-34, 2011.
+Peer-reviewed Domestic Conference Proceedings (Korean)
+Jongho Lim,
+Yongjae Yoo
+, Hanseul Cho, and Seungmoon Choi, “TouchPhoto: System for Photo Taking and Understanding for Visually Impaired People,” in Extended Abstracts of HCI Korea conference, pp. 311-314, 2018.
+Gyeore Yun,
+Yongjae Yoo
+, and Seungmoon Choi “Implementation of Music Composition System Based on Gesture Recognition Using Natural User Interface,” in Extended Abstracts of HCI Korea conference, pp. 329-332, 2018.
+Yongjae Yoo
+, Seyoung Oh, and Seungmoon Choi, “FeetNavi: Feet Vibrotactile Feedback for The Blind Navigation,” in Extended Abstracts of HCI Korea conference, pp. 269-271, 2017
+Hyejin Choi,
+Yongjae Yoo
+, and Seungmoon Choi, “Thermal Tactile Rendering of Musical Features,” in Extended Abstracts of HCI Korea conference, pp. 265-268, 2017.
+Jongho Lim, Hanseul Cho, Inseok Koh, Sungho Seo,
+Yongjae Yoo
+, and Seungmoon Choi, “Implementation of A Photography Guidance and Viewing System for The Visually Impaired,” in Extended Abstracts of HCI Korea conference, pp. 272-275, 2017.
+Ki-eun Park,
+Yongjae Yoo
+, and Seungmoon Choi, “Drag and Roll: Gesture Interaction for Fine-tuning Task on Touchscreen,” in Proceedings of the Korea Computer Congress 2016, pp.1381-1383
+(Winner of the best presentation paper award)
+.
+Sangyoon Han,
+Yongjae Yoo
+, and Seungmoon Choi, “Gesture Interface and Vibration Feedback for Improvement of Office Environment,” in Proceedings of the Korea Computer Congress 2016, pp.1405-1407.
+Hojun Cha,
+Yongjae Yoo
+, and Seungmoon Choi, “A Secure Input Method Using Surface Texture Rendering,” in Extended Abstracts of HCI Korea conference, pp. 86-87, 2016.
+Taekbeom Yoo,
+Yongjae Yoo
+, and Seungmoon Choi, "An Initial Study on Congruence between Visual and Haptic Icons Based on Emotional Responses," in Proceedings of the Korea Computer Congress, pp. 1294-1296, 2014
+(Winner of the best paper award)
+.
+Yongjae Yoo
+and Seungmoon Choi, "HapTune: A Haptic Feedback System for Pitch Learning of String Players," in Proceedings of the HCI Korea, pp. 149-151, 2014.
+Juhwan Park, Bora Kang,
+Yongjae Yoo
+, and Sung. H. Han, “Comparison of Virtual Keyboard Customization Approaches for Smart Tablet Devices: Adaptive vs. Adaptable”, in Proceedings of Korean Ergonomics Society Annual Fall Conference, 2012.
+Yongjae Yoo
+, Inwook Hwang, and Seungmoon Choi, "Consonance Perception of Vibrotactile Chords: A Feasibility Study," in Proceedings of the HCI Korea, pp. 282-284, 2012.
+Peer-Reviewed Domestic Conference Presentations (Korean)
+Yongjae Yoo
+, Hojin Lee, Hyejin Choi, and Seungmoon Choi, “Emotional Response of Vibrotactile-Thermal Stimuli: Effects of Constant Temperature Stimuli,” in the 10th Korea Haptics Community Workshop, 2017.
+Yongjae Yoo
+, Hojin Lee, Hyejin Choi, and Seungmoon Choi, “Emotional Response of Thermal-Vibrotactile Stimuli,” in the 9th Korea Haptics Community Workshop, 2016
+(Winner of the Best Presentation Award)
+.
+Yongjae Yoo
+and Seungmoon Choi, “Emotional Response of Tactile Stimuli,” in Korea Society of Cognitive Science Annual Conference, 2016.
+Yongjae Yoo
+, “Tactile Rendering of Human Emotion,” in HCI Korea 2015 Doctoral Consortium. 2014.
+Yongjae Yoo
+and Seungmoon Choi, “Development of Haptic Tuner for Novice String Instrument Player,” in Korea Society of Cognitive Science Annual Conference. 2013.
+Tutorials
+Yongjae Yoo
+, “Introduction to Psychophysical Methodology and Statistical Analysis for Haptics Research,” In the 9th Korea Haptics Community Workshop, Yonsei University, Seoul, Korea, November 4th, 2016.
+International Patents
+Eun-hwa Lee, Seung-moon Choi, Jae-bong Lee,
+Yong-jae Yoo
+, Jeong-seok Lee, Dae-kwang Jung, and Yu-dong Bae, “Method and Device for Generating Vibration from Adjective Space,” U.S. Patent 9,600,984, Pub. Date: 2017-03-21.
+Eun-hwa Lee, Seung-moon Choi, Jae-bong Lee, Jeong-seok Lee, Dae-kwang Jung, Yu-dong Bae, Jong-man Seo,
+Yong-jae Yoo
+, and Jae-min Chun, “Method and Device for Generating Vibration Based on An Adjective,” U.S. Patent 9,880,570, Date: 2018-01-30.
+Domestic Patents
+Seungmoon Choi and
+Yongjae Yoo
+, “Musical Instrument Training System and Method Using Haptic Stimuli,” Korean Domestic Patent Appl. No. 2013-0070147, Appl. Date: 2013-10-21, Pub. No. 10-1496546, Pub. Date: 2015-02-17.
+Eunhwa Lee, Seungmoon Choi, Jaebong Lee, Jeongseok Lee, Daekwang Jung, Yudong Bae, Jongman Seo,
+Yongjae Yoo
+, and Jaemin Chun, “Method and Device for Generating Vibration Using Adjectives,” Korean Domestic Patent Appl. No. 2014-0010881, Appl. Date: 2014-01-28.
+Eunhwa Lee, Seungmoon Choi, Jaebong Lee,
+Yongjae Yoo
+, Jeongseok Lee, Daekwang Jung, and Yudong Bae, “Method and Device for Generating Vibration from Adjective Space,” Korean Domestic Patent Appl. No. 2014-0012213, Appl. Date: 2014-02-03.
+© 2022 by Yongjae Yoo
+bottom of page

@@ -1,0 +1,26 @@
+Verbal Expressions of Vibrotactile Stimuli
+
+2019년 11월 15일
+2분 분량
+Verbal Expressions of Vibrotactile Stimuli
+최종 수정일:
+2021년 10월 21일
+The purpose of this study was 1) to understand how people perceive vibrotactile stimuli, and 2) how they express the stimuli in verbal words. This project was funded by Samsung Electronics, and I took a main student research associate role.
+We first divided the frequency ranges into low (< 100 Hz) and high (> 100 Hz). Such a way of division is from
+the four-channel theory of tactile perception
+;
+the perception of low- and high- frequency vibrations are mediated by different mechanoreceptors.
+Then, in both low- and high- frequency ranges, we designed stimuli sets to find verbal expressions that describe a certain parameter's change. For single-frequency vibrations, we changed the frequency gradually, like 50 - 56 - 63 - ... - 100 Hz. For dual-frequency superimposed vibrations, we changed the base frequency and frequency ratio.
+For example, changing base frequency with a frequency ratio of 2.0 leads to a series of  50+100, 58+116, 66+126, ..., 87 + 174 Hz superimposed vibration. For all stimuli sets, we used the same inter-stimulus interval (ISI) of 500 ms.
+Then we gathered adjectives by a large-scale survey experiment with about 520 participants. The participants asked to perceived gradually-changing stimuli and pick three adjectives (from 16 adjectives in the table below), which describe the change in their vibrotactile perception.
+The results indicated that the adjective pair of 'heavy-light' and 'thick-thin' are often used to represent the frequency change (especially for single-frequency vibrations). 'Sparse-dense,' 'slow-fast,' and 'bumpy-even' are often selected to represent low-frequency fluttering sensations. Lastly,  'rough-smooth' appears to describe the change of frequency ratio (MR sets in the bottom table below.)
+Then, we selected three adjectival sets of perceived weight ('heavy-light'), bumpiness (bumpy-even'), and roughness ('rough-smooth') and conducted magnitude estimation experiments to quantify the degree of sensations.
+The paper contains such results is under review, so I cannot disclose in here.
+I also implemented a vibrotactile authoring tool that uses the verbal expressions derived from the experiments.
+Paper (WIP currently):
+link
+Introduction of authoring tool:
+link
+
+© 2022 by Yongjae Yoo
+bottom of page

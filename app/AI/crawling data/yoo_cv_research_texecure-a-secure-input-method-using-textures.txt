@@ -1,0 +1,20 @@
+TeXecure: A Secure Input Method Using Textures
+
+Yongjae Yoo
+2019년 11월 18일
+1분 분량
+TeXecure: A Secure Input Method Using Textures
+최종 수정일:
+2019년 11월 22일
+This project suggests a secured input method on a surface texture display (T-Pad tablet). My colleague and I submitted this project to the student innovation challenge (SIC) of the World Haptics Conference 2015 in Chicago and selected to be one of the finalists (top 9 teams).
+We found the problem that the current input methods for access codes are vulnerable to shoulder surfers. For example, lock patterns can be easily captured, or even worse, the last keyboard entry remains unmasked and can be easily stolen.
+TeXecure offers several easily distinguishable textures as secure input. Instead of typing a password or drawing a pattern, a user needs to remember and select a series of textures as an access code. TeXecure can be embedded in various applications such as bank transactions, PIN inputs, or even lock-screen of Android phones.
+Paper
+Korea HCI 2014:
+link
+Video
+Student Innovation Challenge in World Haptics Conference 2015:
+link
+
+© 2022 by Yongjae Yoo
+bottom of page

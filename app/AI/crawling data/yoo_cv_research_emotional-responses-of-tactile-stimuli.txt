@@ -1,0 +1,19 @@
+Emotional Responses of Tactile Stimuli
+
+Yongjae Yoo
+2019년 11월 13일
+1분 분량
+Emotional Responses of Tactile Stimuli
+최종 수정일:
+2019년 11월 22일
+This project investigates how tactile stimuli feel. Using the circumplex of affect (also known as Valence-Arousal space), I studied the emotional responses of tactile stimuli.
+First, to understand the effects of physical parameters of vibrotactile icons, I designed three sets of tactile icons in which four physical parameters—amplitude, frequency, duration, and envelope—were systematically varied. Experimental results with 24 participants showed that the four parameters have clear relationships with the emotional responses of tactile icons. (See figures below.) The responses of stimuli spanned to a large region in the valence-arousal space, but they did not elicit very positive-relaxing or very negative-relaxing emotions. These findings provide the design guidelines of tactile icons that have desired affective properties.
+Then, I expanded this study to complex tactile stimuli. First, I evaluated the emotional responses of constant-temperature thermal stimuli. The results are shown below. Cold (20ºC) and hot (40ºC) stimuli elicited negative and intense responses, while cool (25ºC) and neutral (30ºC) stimuli were evaluated as a little bit positive.
+Lastly, I combined the thermal and vibrotactile stimuli and evaluated the responses. The results showed that thermal stimuli generally shift the emotional responses of vibrotactile stimuli. The effects of the individual vibrotactile parameters of frequency, amplitude, and duration are preserved. Thermal stimuli also tend to intensify the emotions elicited by vibrotactile stimuli, but this requires further validation.
+Paper links
+Emotional responses of tactile icons (WHC 2015, vibrotactile stimuli):
+link
+Emotional responses of vibrotactile-thermal stimuli (ACII 2017, vibrotactile + constant temperature stimuli):
+
+© 2022 by Yongjae Yoo
+bottom of page
