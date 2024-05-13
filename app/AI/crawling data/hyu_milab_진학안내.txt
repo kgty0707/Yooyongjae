@@ -1,0 +1,49 @@
+MILab@Hanyang AI - 진학 안내
+
+진학 안내
+인턴십 및 진학 안내
+다중감각지능 및 인터랙션 연구실에서는 학부생 인턴, 석/박사 및 통합과정 학생을 모집하고 있습니다.
+본 연구실 진학을 고려 중이거나, 연구 참여에 관심있는 학부생을 위한 정보를 안내하고자 합니다.
+연구실의 목표 및 연구 분야
+우리 연구실의 목표는 컴퓨터 중심의, 계산 중심의 인공지능을 넘어 사람을 위한, 사람을 향한 인공지능
+과 이를 활용하는 인간-컴퓨터/로봇 상호작용 시스템
+의 개발이라 할 수 있습니다.
+매일, 매 순간 우리는 시, 청, 촉각, 운동 감각 등 다양한 인체의 감각을 사용하여 정보를 받아들이고, 학습하며 교류합니다. 본 연구실에서 연구하는 '다중 감각' 지능이라 함은 다양한 감각을 통해 사람이 인지하고 받아들이는 정보, 즉 이미지, 소리, 촉각, 움직임들과 더불어 이러한 다양한 센서 데이터로부터 얻어낼 수 있는 감정이나 건강 상태, 주변 환경의 변화 등을 감지, 인지하고 이를 학습, 모델링하는 것을 의미합니다. 또, 사람을 이해하고 돕기 위해 사람의 응답과 행동 등을 학습하고 모델링하는 human behavior/response modeling 또한 다중 감각 인공지능의 중요한 축이라 할 수 있습니다.
+이러한 다중 감각 지능과
+, 인간-인공지능
+상호작용 시스템은
+사람에게
+도움이 되고, 때로는 위험에서 구하거나 때로는 이해, 동조
+하고 협력할 수 있는 좋은 동반자가 될 수 있습니다. 우리 연구실의 연구 또한 이러한 좋은 동반자 시스템과 AI 기술을 추구합니다.
+학부 인턴 - 연구참여 학생
+학부생 중, 대학원 진학을 고려하거나, 심도있는 공부를 해 보고 싶은 학생들이 있을 것입니다. 이러한 학생들에게 인턴십은 연구실 환경을 미리 겪어보고, 본인이 염두에 둔 심도있는 공부가 적성에 맞는지 알아보고, 그리고 연구자로서의 생활을 체험하기 위한 좋은 기회가 될 것입니다. 본 연구실은 인턴십을 희망하는 학생들에게 연구실 여건이 허락하는 한, 공간과 원하는 공부를 할 수 있는 환경을 제공하고자 노력하고 있습니다.  또, 학부 인턴 학생이 연구실의 연구 과제에 기여하는 경우, 해당 부분에 대한 인건비 또한 지급합니다. 한양대학교 인공지능학과 및 컴퓨터학부 3학년/4학년 학생들이 학부 연구생 과정 (
+연구실심화실습 과목)
+을 본 연구실에서 이수하기를 희망하는 경우,
+yongjaeyoo at hanyang dot ac dot kr로 이
+메일을 보내 상담을 받으시기를 바랍니다.
+타 학과, 또는 타교 학생이 본 연구실에 관심이 있는 경우, 이메일로 본인의 소개와 관심 분야, CV와 성적표 (Transcript)를 마찬가지로 yongjaeyoo at hanyang dot ac dot kr 로 보내 상담을 받으시기를 바랍니다. 인공지능 및 HCI 융합 분야 연구의 특성 상, 본인의 Specialty를 살릴 수 있는 학생은 전공 및 재적학교와 무관하게 기회를 제공할 용의가 있습니다. 또한,
+본 연구실에서의 인턴십을 수행하는 학생들은 제가 관찰
+하고 성장을 지켜볼 기회가
+그만큼 많았으므로
+본교 대학원 입시에서 조금이나마 유리한 요소로 작용할 수 있습니다.
+대학원 진학을 고려하는 학생들에게
+인공지능, 그리고 인간-컴퓨터 상호작용 분야는 많은 분들이 연구하고 있지만, 아직까지 미답사된 영역이 많은 새로운 학문분야입니다. 그 말은, 여러분들이 특정 분야에 대해 최고 수준의 전문가로 성장할 분야, 즉 나의 확실한 도메인으로 삼을 분야 또한 매우 다양하다고 할 수 있습니다.
+또한, 대학원은 학부 4년보다 더 깊이 있는 학문을 공부하고, 내 자신을 더 고급 인력으로 성장시켜 더 좋은 성과와 전문적인 커리어를 얻기 위한 내실을 다지는 과정입니다. 따라서, 학문을 탐구하고자 하는 욕심과 동기가 없는 (전문연구요원/산업기능요원 등 병역혜택을 노리는) 단순 도피성 진학이나, 취업이 되지 않아 시간을 벌기 위한 목적의 진학은 추천하지 않습니다.
+앞서 내실을 다지는 기간이라는 부분과 결부되어, 분야의 특성 상, 학부 4년만에 HCI와 AI의 모든 과정을 학습하고 실제 연구 및 업무 경험까지 쌓기는 다소 무리인 경우가 많습니다.  따라서 지도교수는 석사 이상 진학하는 학생들이 학부 및 대학원에서 배우는 과목의 이론과 실제가 실무, 특히 High-level의 연구에서 어떻게 적용되는지 고찰하고, 전문가로써의 경험을 쌓아 사회로 진출하기를 기대하고 있습니다. 또한, 재학 기간 중 하나 이상의 완성된 프로젝트와, 참여한 과제들의 포트폴리오를 구성하여 본인만의 경쟁력을 쌓기를 강력히 권장합니다.
+(e.g., 코딩이라면 본인의 프로젝트를 모아둔 Github repository 또는 공개 프로젝트의 contribution 내역 등이
+될 테고
+, 회사와의 비밀유지조항 등이나 구동을 위해 특정 기기를 사용하여야 하는 등 각종
+제약이 있어
+코드 오픈이 어려울 경우 동영상 및 각종 Demo 등을 기록할 수 있겠죠.)
+지도교수는 이러한 활동에 대해 가능한 최대한의 지원을 제공할 것을 약속합니다.
+대학원생 연구 지원, 장학금 및 생활비 지원
+한양대학교 인공지능융합학과는 정부 (과학기술정보통신부)의 인공지능특성화대학원 사업에 선정되어 석/박사과정 전원을 전액 장학생으로 선발하고 있습니다. 또한 정부의 BK21+ Four 사업을 통해 추가적으로 장학금 및 생활비, 국제학회 참석 및 논문발표 경비 등을 제공하고 있으며, 본 연구실에서도 수주하는 대학, 정부 및 기업체 지원 연구비 Funding을 통해 연구 장비 및 금전적인 지원을 충분히 제공하기 위해 노력하고 있습니다. 또한 대학의 공용 컴퓨팅 Resource들도 필요시 사용할 수 있으므로, 장비 및 여건의 부족함으로 인한 연구 및 학습의 어려움은 없을 것이라 생각합니다.
+Language Skill Requirements for Non-Korean Native Applicants
+I expect students eager to study artificial intelligence and human-computer interaction, particularly multimodality and human-AI interactions. Also, students who want to apply to our group should have language skill(s) either proficient in
+1)
+English (Advanced level - at least C1 in CEFR or above)
+and
+2) Korean (TOPIK level 5 - C1 or above). I have to set such a minimum huddle because of my philosophy: here, my lab in Hanyang University graduate school is for study and research, not for translation and childcaring services. I will not answer if you do not have those language proficiency with appropriate ability for research in our group.
+Multimodal Intelligence and Interaction Laboratory @ Hanyang University ERICA
+경기도 안산시  상록구 한양대학로 55 (사동, 한양대학교) 제3공학관 518호, 제4공학관 101호
+Room 101 at Eng. Bldg IV/Room 519-1 at Eng. Bldg III, 55 Hanyangdaehak-ro, Sangrok-gu, Ansan, Gyeonggi-do, South Korea 15588
