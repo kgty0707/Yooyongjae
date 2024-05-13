@@ -1,0 +1,25 @@
+Haptic Tuner for Novice String Instrument Learners
+
+Yongjae Yoo
+2019년 11월 13일
+1분 분량
+Haptic Tuner for Novice String Instrument Learners
+최종 수정일:
+2019년 11월 22일
+Novice string instrument learners are often facing the difficulty of finding a correct pitch. To help this, chromatic tuners that visualize the pitch errors, are commonly used. However, it may cause other problems such as bending posture due to its eye-catching nature. Instead of using visual aids, I suggested a haptic guidance system, consists of two armbands attached to the learner's left arm to indicate whether the played pitch is lower/higher than the desired pitch.
+Implementation
+Simply, I used a tablet PC and two voice-coil actuators to implement this system. The lower-arm actuator vibrated when the user's played pitch is lower than the desired, while the upper-arm actuator vibrated when the played pitch is higher. If the amount of pitch error is large, both actuators vibrated. In a pilot study, participants identified about 96% of stimuli without  any training sessions.
+A Longitudinal Study for Evaluation: Comparison to Visual Aids (Chromatic Tuners)
+I designed a five-day longitudinal study to compare the effectiveness of two guidance methods (chromatic tuners vs. HapTune) on pitch correction of novice users. 18 novice string instrument learners participated in this study, and they were divided into two groups (visual and haptic groups).
+As results, both visual and haptic guidance decreased the average pitch error and the number of the misplayed pitch. Interestingly, the learning effects of the haptic group remained when we remove the guidance from the users, while the effects of the visual group did not.
+Paper links
+Initial study:
+paper link #1
+A longitudinal study:
+paper link #2
+Video link
+World Haptics 2013:
+link
+
+© 2022 by Yongjae Yoo
+bottom of page

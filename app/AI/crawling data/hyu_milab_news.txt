@@ -1,0 +1,46 @@
+MILab@Hanyang AI - News
+
+새 소식
+MILab @ Korea Haptics Conference
+We participated in the HCI Society of Korea conference at Hongcheon, on January 24th to 26th. poster paper developed by Haerim, Minho, and
+Eunchae
+was presented. This experience provided the students with valuable opportunities for networking and gaining insights from various presentations and discussions at the conference.
+New Members!
+We have several new members from this winter break. Heymin Park started her Ph.D. degree course with us. Seunggyeom Kim and Minju Seo joined our lab and pursue their Master's degrees. Minho Chung will continue his study for his Master's degree. See
+Members
+page for more information.
+MILab @ Korea Haptics Conference
+We participated in the 1st Korea Haptics Conference at Buyeo, on Nov. 22-24. Four papers (one oral, three demo presentations) were presented. In addition, the student team of Taehyun, Jiyoung, Jaewan, and Seoyong received the Best Idea Award in the Future Mobility Idea Challenge, sponsored by Hyundai Motors, and another student team of
+Haerim
+, Eunchae, and Minho was the finalist in the Future Appliances Idea Challenge sponsored by LG Electronics. Congratulations!
+New Publications!
+We have a few new publications. Prof. Yoo's publication "Soft Pneumatic Haptic Wearable to Create the Illusion of Human Touch" has been published in IEEE ToH. Jaewan's first work, "Effects of Vibrotactile Feedback on Aim-and-Throw Tasks in Virtual Environments" has been published in VRST'23 Poster. We also have a few domestic conference publications, (will) be presented in Korea Haptics Conference, HCI Korea, and Korea Robotics Conference (KRoC). See
+Publications
+for more information.
+IC-PBL Excellence Award
+Prof. Yoo's lecture "VR/AR Programming" in this semester (Spring 2023) received an excellence award in IC-PBL lecture contest of the university. Congratulations!
+IEEE Transactions on Haptics Best Paper Award
+!
+Prof. Yoo's paper "Perceived Intensity Model of Dual-Frequency Superimposed Vibration: Pythagorean Sum"  won the IEEE Transactions on Haptics Best Paper Award. Congratulations!
+MILab @ WHC'23
+We presented in WHC'23 at Delft, Netherland.
+Haerim
+, Minho, and Eunchae presented "Context-Based Tactile Translation of Sports Broadcasting on A Refreshable Pin Array" in the demo session, and Prof. Yoo presented a ToH poster
+"Perceived Intensity Model of Dual-Frequency Superimposed Vibration: Pythagorean Sum."
+See
+Publications
+page for more information.
+New members!
+We have several new members from this summer break. Jaewan Lim will continue his study in our group, aiming for a Ph.D. degree, and
+Haerim
+Kim and Jiyoung Park joined our group as Master's degree students. Also, Dayoung Kim, Haeun Seo, and Sooyeon Choi will conduct their undegraduate internship with us.  See
+Members
+page for more information.
+New research funding - 우수신진 최초혁신연구실
+On top of our current excellent first-stage research grant (우수신진연구), our group will receive an additional funding for procurement of research equipments from NRF Korea.
+See
+Research
+for more information.
+Multimodal Intelligence and Interaction Laboratory @ Hanyang University ERICA
+경기도 안산시  상록구 한양대학로 55 (사동, 한양대학교) 제3공학관 518호, 제4공학관 101호
+Room 101 at Eng. Bldg IV/Room 519-1 at Eng. Bldg III, 55 Hanyangdaehak-ro, Sangrok-gu, Ansan, Gyeonggi-do, South Korea 15588
