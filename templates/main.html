@@ -1,4 +1,3 @@
-<!-- 원 페이지 화면입니다. -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,14 +7,23 @@
     <link rel="stylesheet" href="C:\Users\jy\Desktop\2024-1 석사2기\딥생성모델\Yooyongjae\static\css\style.css">
 </head>
 <body>
+    <div class="Title">
+        <div id="web-title">Professor TMI Chatbot</div>
+    </div>
     <div class="chat-container">
         <div class="professor-image-container">
-            <img id="professor-img" src="C:\Users\jy\Desktop\2024-1 석사2기\딥생성모델\Yooyongjae\static\images\눈을감은_웃고있는_패딩_겨울_정면.png" alt="Professor" />
+            <img id="professor-img" src="C:\Users\jy\Desktop\2024-1 석사2기\딥생성모델\Yooyongjae\static\images\멋있는_인자한_깔끔한_양복_미소짓는_정면.png" alt="Professor" />
         </div>
         <div class="chat-interface">
             <div id="chat-history" class="chat-history"></div>
             <textarea id="user-input" placeholder="여기에 질문을 입력하세요..."></textarea>
-            <button onclick="submitQuestion()">전송</button>
+            <div class="buttons">
+                <button onclick="submitQuestion()">전송</button>
+                <select id="model-select">
+                    <option value="model1">LLAMA</option>
+                    <option value="model2">GPT</option>
+                </select>
+            </div>
         </div>
     </div>
     <script src="C:\Users\jy\Desktop\2024-1 석사2기\딥생성모델\Yooyongjae\static\js\style.js"></script>
