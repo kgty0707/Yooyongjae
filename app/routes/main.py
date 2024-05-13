@@ -15,7 +15,7 @@ def hello():
 @router.get("/", response_class=HTMLResponse)
 def main(request: Request):
     return templates.TemplateResponse(
-        name="back_test.html",
+        name="main.html",
         request=request
     )
 
@@ -34,6 +34,7 @@ def send_query(request: Request, model_type: str, query: str):
     }
 
     answer, picture = generate_answer(request_data)
+    
     return templates.TemplateResponse(
         name="main.html",
         request=request,

@@ -2,3 +2,5 @@
 # .envlist에 있는 값을 그대로 복사해서 .env 파일에 넣고 키 값을 넣어주면 됩니다.
 GPT_API_KEY = "ENV 파일에 있음"
 DEEPL_API_KEY = "이 친구는 테스트 할려고 추가함 ENV 파일에 있음"
+INFO_API_KEY = "민주한테 있음"
+IMG_API_KEY = "민주한테 있음"

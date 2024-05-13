@@ -1,0 +1,17 @@
+Audio-haptic Conversion Algorithm for Music Experience of The Hearing-Impaired
+
+Yongjae Yoo
+2019년 11월 15일
+1분 분량
+Audio-haptic Conversion Algorithm for Music Experience of The Hearing-Impaired
+최종 수정일:
+2019년 11월 22일
+I participated in developing a music experience system named TouchMusic, aimed to deliver music to the hearing-impaired using visual and haptic feedback. I developed the two-channel audio-haptic conversion algorithm and designed the initial version of haptic hardware. Another research group at Seoul National University implemented a visual rendering of audio features. Combining them into a system results in the TouchMusic system, which converts audio features to visuohaptic stimuli to provide musical experiences to the hearing-impaired.
+TouchMusic automatically extracts musical features and converts them to animated visual cues and vibration patterns to present them on a mobile phone’s screen and a neckband-type haptic display. The haptic neckband embeds two voice-coil actuators and provides vibrations to the user’s collarbone. With TouchMusic, users can experience lively animated cues reacting to beat, melody, and lyric, while feeling vibrations that express bass and vocal features.
+The audio features converted to visual- and haptic- stimuli are described in figures below.
+Video link
+World Haptics Conference 2015 Demonstration:
+link
+
+© 2022 by Yongjae Yoo
+bottom of page

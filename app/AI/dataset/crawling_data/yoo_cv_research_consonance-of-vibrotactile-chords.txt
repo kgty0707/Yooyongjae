@@ -1,0 +1,17 @@
+Consonance of Vibrotactile Chords
+
+Yongjae Yoo
+2019년 11월 13일
+1분 분량
+Consonance of Vibrotactile Chords
+최종 수정일:
+2019년 11월 22일
+Like musical chords, people can distinguish "consonant" and "dissonant" superimposed vibrations. The evaluation criteria of vibrotactile consonance resemble those of musical chords.
+We begin with an observation that superimposed vibrotactile stimuli are analogous to musical chords in which multiple notes are played simultaneously (see figure above). We designed a set of so-called “vibrotactile chords” based on musical chords. Then, we evaluated their degrees of consonance (harmony) that participants perceive through a perceptual experiment.
+Experimental results indicate that participants can reliably rate the degrees of consonance of vibrotactile chords. We could establish a well-defined function that relates the degree of consonance to the base and chordal frequency of a vibrotactile chord.
+The sensations described as “pleasant,” “smooth,” “even,” and “clear” were highly relevant to consonance, whereas those described as “jagged,” “bumpy,” “rough,” “sparse,” and “muddy” were closely associated with dissonance.
+These findings have direct implications for the design of complex vibrotactile signals that can be produced by current wideband actuators.
+Paper (ToH, 2014):
+
+© 2022 by Yongjae Yoo
+bottom of page
