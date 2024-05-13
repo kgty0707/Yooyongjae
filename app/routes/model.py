@@ -4,11 +4,12 @@ import openai
 from fastapi import APIRouter, Request, HTTPException
 from fastapi.responses import JSONResponse
 from pydantic import BaseModel
-from dotenv import load_dotenv
-from app.routes.db_search import search_by_query, search_by_emotion
+from app.routes.db_search import search_by_query, search_by_result
 
 api_key = os.getenv('GPT_API_KEY')
 openai.api_key = os.getenv('API_KEY')
+
+origin_path = "./APP/AI/dataset/image_data/"
 
 router = APIRouter()
 
@@ -30,17 +31,9 @@ async def generate_answer(request_data: PromptRequest):
     content = search_by_query(prompt)
     answer = rag_prompt(prompt, model_type, content)
     
-    # TODO
-    # Emotion과 Answer Filter
-    lines = answer.strip().split('\n')
-    for line in lines:
-        if ': ' in line:
-            key, value = line.split(': ', 1)
-            result[key.strip()] = value.strip()
-    # Emotion은 Picture Vector Search 후 Picture 반환
-    picture = search_by_emotion(result['emotion'])
+    picture = origin_path + search_by_result(answer)
 
-    return result['answer'], picture
+    return answer, picture
 
 
 async def rag_prompt(query, model_type, content):
@@ -65,7 +58,6 @@ async def rag_prompt(query, model_type, content):
                     question: {query}
 
                     answer:
-                    emotion:
                     '''
                  }
             ],

@@ -34,6 +34,7 @@ def send_query(request: Request, model_type: str, query: str):
     }
 
     answer, picture = generate_answer(request_data)
+    
     return templates.TemplateResponse(
         name="main.html",
         request=request,

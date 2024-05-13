@@ -17,10 +17,10 @@ class Model:
         self.model_type = model_type
 
     def model_type(self):
-        if self.model_type == 'GPT-3.5':
+        if self.model_type == 'gpt-3.5-turbo':
             return self.model_type
         
-        elif self.model_type == 'etc':
+        elif self.model_type == 'player1537/Dolphinette':
             return self.model_type
         
         else:
