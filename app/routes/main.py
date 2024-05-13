@@ -15,7 +15,7 @@ def hello():
 @router.get("/", response_class=HTMLResponse)
 def main(request: Request):
     return templates.TemplateResponse(
-        name="back_test.html",
+        name="main.html",
         request=request
     )
 

@@ -1,1 +1,123 @@
 /* css 관련 파일입니다. */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.title-container {
+    text-align: center;
+    width: 100%;
+    margin-bottom: 50px; /* Adjust space between title and chat container */
+}
+
+#web-title {
+    font-size: 50px;
+    font-weight: bold;
+    color: #004992;
+    margin: 10px;
+}
+
+.chat-container {
+    width: 1000px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+}
+
+.professor-image-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background-color: #e8e8e8;
+}
+
+#professor-img {
+    width: 500px;
+    height: 500px;
+    border-radius: 30%;
+    object-fit: cover;
+}
+
+.chat-interface {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.chat-history {
+    height: 300px;
+    overflow-y: auto;
+    background-color: #fafafa;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+textarea {
+    height: 50px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    resize: none;
+    text-align: right;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+textarea:focus, button:focus, select:focus {
+    outline: none;
+}
+
+.buttons {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 10px;
+}
+
+#model-select {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: white;
+    cursor: pointer;
+}
+
+.chat-message {
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 15px;
+    width: auto;
+    max-width: 100%;
+}
+
+.user-message {
+    background-color: #c2e0ff;
+    align-self: flex-end;
+    text-align: right;
+}
+
+.professor-message {
+    background-color: #ffc2cb;
+    align-self: flex-start;
+    text-align: left; 
+}
