@@ -1,17 +1,27 @@
 # gpt api 관련 파일입니다.
 import os
-import openai
+from openai import OpenAI
+import deepl
+
 from fastapi import APIRouter, Request, HTTPException
 from fastapi.responses import JSONResponse
 from pydantic import BaseModel
 from app.routes.db_search import search_by_query, search_by_result
+from app.routes.load_model import load_model
 
 api_key = os.getenv('GPT_API_KEY')
-openai.api_key = os.getenv('API_KEY')
+api_key = os.getenv('GPT_API_KEY')
+auth_key = os.getenv('DEEPL_API_KEY')
+
+translator = deepl.Translator(auth_key)
+client = OpenAI(api_key=api_key)
 
 origin_path = "./APP/AI/dataset/image_data/"
 
 router = APIRouter()
+
+pipeline = load_model()
+
 
 '''
 TODO
@@ -19,54 +29,61 @@ TODO
 '''
 
 
-class PromptRequest(BaseModel):
-    prompt: str
+def generate_answer(request_data):
 
-
-async def generate_answer(request_data: PromptRequest):
-    result = {}
-
-    prompt = request_data.prompt
-    model_type = request_data.model_type
+    prompt = request_data['prompt']
+    model_type = request_data['model_type']
     content = search_by_query(prompt)
-    answer = rag_prompt(prompt, model_type, content)
+    if model_type == 'gpt-3.5-turbo':
+        answer = gen_gpt(prompt, model_type, content)
+    else:
+        answer = gen_etc(prompt, content)
+    
     
     picture = origin_path + search_by_result(answer)
+    print(answer, picture)
 
     return answer, picture
 
+        
+def gen_gpt(query, model_type, content):
 
-async def rag_prompt(query, model_type, content):
-    # TODO
-    # 현재는 GPT 모델로 설정되어 있음
-    # 모델 타입에 따른 분기 설정
-    try:
-        response = await openai.ChatCompletion.create(
-            model=model_type,
-            messages=[
-                {
-                    "role": "system",
-                    "content": "instruction"},
-                {
-                    "role": "user",
-                    "content": f'''
+    messages = [{
+        "role": "system",
+        "content": "You are a professor in korea"
+    }, {
+        "role": "user",
+        "content": f"Write in the tone of a professor speaking to students and Please write in Korean. \nquestion: {query} \ninformation: {content} "
+    }]
 
-                    # 예시 5개 보여주기
-                    Emotion example list: 웃고있는_행복한_안경을쓰고있는.png
+    print('prompt: ', messages)
+    response = client.chat.completions.create(
+        model=model_type,
+        messages=messages,
+        temperature=0
+    )
+    response_message = response.choices[0].message.content
+    return response_message
 
-                    document: {content}
-                    question: {query}
 
-                    answer:
-                    '''
-                 }
-            ],
-            max_tokens=3000,
-            stop=None,
-            temperature=0.5
-        )
-        answer = response['choices'][0]['message']['content'].strip()
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
-    
-    return answer
+def gen_etc(query, content):
+    query_result = translator.translate_text(query, target_lang="EN-US")
+    content_result = translator.translate_text(content, target_lang="EN-US")
+
+    completion = pipeline(
+        (
+            f"""
+            <s>INSTRUCTION: You are a professor in College of Engineering.
+            INFORMATION: {content_result}
+            INPUT: {query_result} Write like a professor.
+            OUTPUT:
+            """
+        ),
+        return_full_text=False,
+        max_new_tokens=256,
+    )
+
+    completion = completion[0]['generated_text']
+    result = translator.translate_text(completion, target_lang="KO")
+
+    return result.text
