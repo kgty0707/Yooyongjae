@@ -29,3 +29,39 @@
     <script type="text/javascript" src="{{ url_for('static', path='/js/style.js') }}"></script>
 </body>
 </html>
+
+<!--
+<script>
+    function submitQuestion() {
+        const userInput = document.getElementById('user-input').value.trim();
+        const chatHistory = document.getElementById('chat-history');
+    
+        // 사용자 입력을 말풍선으로 추가
+        let userBubble = document.createElement('div');
+        userBubble.classList.add('chat-message', 'user-message');
+        userBubble.innerText = userInput;
+        chatHistory.appendChild(userBubble);
+    
+        // 서버로 요청 보내기
+        fetch('/generate', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({input_text: userInput})
+        })
+        .then(response => response.json())
+        .then(data => {
+            let professorResponse = data.response;
+            let professorBubble = document.createElement('div');
+            professorBubble.classList.add('chat-message', 'professor-message');
+            professorBubble.innerText = professorResponse;
+            chatHistory.appendChild(professorBubble);
+        })
+        .catch(error => console.error('Error:', error));
+    
+        // 입력창 초기화
+        document.getElementById('user-input').value = '';
+    }
+    </script>
+-->    
