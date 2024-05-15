@@ -32,6 +32,9 @@ query_result = translator.translate_text(query, target_lang="EN-US")
 
 print(query_result)
 
+content = "교수님의 생일은 7월 25일이라고 학생들이 말합니다."
+content_result = translator.translate_text(content, target_lang="EN-US")
+print(content_result)
 # completion = pipeline(
 #     (
 #         r"""<s>INSTRUCTION: You are an AI assistant that helps people find"""
@@ -46,8 +49,8 @@ completion = pipeline(
     (
         f"""
         <s>INSTRUCTION: You are a professor in College of Engineering.
-        INFORMATION: Professor's birthday: May 27.
-        INPUT: {query_result} Be concise.
+        INFORMATION: {content_result}
+        INPUT: {query_result} Write like a professor.
         OUTPUT:
         """
     ),

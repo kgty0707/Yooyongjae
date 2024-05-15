@@ -1,20 +1,51 @@
-<h1>Yooyongjae</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chatbot Example</title>
+</head>
+<body>
+    <h1>Chatbot Example</h1>
+    <form id="chatbotForm">
+        <label for="model_type">Model Type:</label>
+        <input type="text" id="model_type" name="model_type" value="earthquake"><br><br>
+        <label for="query">Query:</label>
+        <input type="text" id="query" name="query" value="교수님 생일 언제야?"><br><br>
+        <button type="button" onclick="submitQuery()">Submit</button>
+    </form>
 
-<img
-  src="{{ url_for('static', path='/images/Dan.jpg') }}"
-  width="600
-  alt="The head and torso of a dinosaur skeleton; it has a large head with long sharp teeth"
-  title="A T-Rex on display in the Manchester University Museum" />
-<blockquote>
-  <p>
-    But down there it would be dark now, and not the lovely lighted aquarium she
-    imagined it to be during the daylight hours, eddying with schools of tiny,
-    delicate animals floating and dancing slowly to their own serene currents
-    and creating the look of a living painting. That was wrong, in any case. The
-    ocean was different from an aquarium, which was an artificial environment.
-    The ocean was a world. And a world is not art. Dorothy thought about the
-    living things that moved in that world: large, ruthless and hungry. Like us
-    up here.
-  </p>
-  <footer>- MILAB, <cite>myj</cite></footer>
-</blockquote>
+    <!-- 결과를 표시할 요소 추가 -->
+    <h2>Response:</h2>
+    <p id="answer"></p>
+    <img id="picture" alt="Result Picture" style="max-width: 300px; height: auto;">
+
+    <script>
+        function submitQuery() {
+            const url = 'http://localhost:8000/send_query';
+            const data = {
+                model_type: document.getElementById('model_type').value,
+                query: document.getElementById('query').value
+            };
+
+            fetch(url, {
+                method: 'POST', // or 'PUT'
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(data) // convert JavaScript object to JSON string
+            })
+            .then(response => response.json()) // parses JSON response into native JavaScript objects
+            .then(data => {
+                console.log('Success:', data);
+                // 결과 데이터를 HTML 요소에 표시
+                document.getElementById('answer').textContent = data.answer;
+                document.getElementById('picture').src = data.picture;
+                document.getElementById('picture').style.display = 'block'; // 이미지 표시
+            })
+            .catch((error) => {
+                console.error('Error:', error);
+            });
+        }
+    </script>
+</body>
+</html>
