@@ -28,18 +28,23 @@
             };
 
             fetch(url, {
-                method: 'POST', // or 'PUT'
+                method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
                 },
-                body: JSON.stringify(data) // convert JavaScript object to JSON string
+                body: JSON.stringify(data)
             })
-            .then(response => response.json()) // parses JSON response into native JavaScript objects
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.json();
+            })
             .then(data => {
-                console.log('Success:', data);
-                // 결과 데이터를 HTML 요소에 표시
                 document.getElementById('answer').textContent = data.answer;
-                document.getElementById('picture').src = data.picture;
+                const pictureUrl = '../static/image_data/' + decodeURIComponent(data.picture);
+                console.log(pictureUrl)
+                document.getElementById('picture').src = pictureUrl;
                 document.getElementById('picture').style.display = 'block'; // 이미지 표시
             })
             .catch((error) => {

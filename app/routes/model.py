@@ -16,7 +16,6 @@ auth_key = os.getenv('DEEPL_API_KEY')
 translator = deepl.Translator(auth_key)
 client = OpenAI(api_key=api_key)
 
-origin_path = "./APP/AI/dataset/image_data/"
 
 router = APIRouter()
 
@@ -40,7 +39,7 @@ def generate_answer(request_data):
         answer = gen_etc(prompt, content)
     
     
-    picture = origin_path + search_by_result(answer)
+    picture = search_by_result(answer)
     print(answer, picture)
 
     return answer, picture
