@@ -1,8 +1,11 @@
+import urllib.parse
+
 from fastapi import APIRouter, Request
 from pydantic import BaseModel
 
 from fastapi.templating import Jinja2Templates
-from fastapi.responses import HTMLResponse
+from fastapi.responses import HTMLResponse, JSONResponse
+
 from app.routes.load_model import Model
 from app.routes.model import generate_answer
 
@@ -45,9 +48,10 @@ def send_query(request: Request, data: Query):
 
     answer, picture = generate_answer(request_data)
     print(f"답변: {answer}, 사진: {picture}")
-    
-    return templates.TemplateResponse(
-        name="back_test.html",
-        request=request,
-        context={"answer": answer, "picture": picture}
-    )
+
+    json_data = {
+        'answer': answer,
+        'picture': picture
+    }
+
+    return JSONResponse(content=json_data)
