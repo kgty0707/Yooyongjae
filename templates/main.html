@@ -1,4 +1,43 @@
 <!DOCTYPE html>
+<html lang="kr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professor TMI Chatbot</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', path='/css/style.css') }}">
+</head>
+<body>
+    <div class="title">
+        <h1>Professor TMI Chatbot</h1>
+        <p>딥생성 팀프로젝트 과제는 RAG기반의 Application 개발 프로젝트이며, 저희 팀 프로젝트 주제는 “to yongjae, for yongjae, by yongjae”입니다. 이 프로젝트의 목표는 유용재 교수님의 정보를 크롤링하여 이를 기반으로 한 Chatbot을 개발하는 것입니다. 교수님의 사적이고 공적인 정보를 수집하여, 해당 정보를 기반으로 LLM 챗봇 서비스를 제공하려합니다. 재미 요소가 채점 1순위인만큼 교수님을 사랑하는 마음을 가득 담아 해당 Chatbot을 제작합니다. chatbot은 교수님의 연구 분야, 강의 내용, 경력 , 기타 TMI 등의 정보를 반영하여 사용자의 질문에 자동으로 답변할 수 있는 시스템을 목표로 합니다.
+        </p>
+    </div>
+    <div class="chat-container">
+        <div id="professor-image-container" class="professor-image-container">
+            <div id="professor-response" class="arrow_box_prof">교수님 응답 (백엔드에서 전송받음)</div>
+            <img id="professor-img" src="{{ url_for('static', path='/images/professor_image.png') }}" alt="교수님 이미지" />
+        </div>
+        <div id="student-images-container" class="student-images-container">
+            <div id="user-question" class="arrow_box_student">사용자 질문 (백엔드에 전송함)</div>
+            <img id="students-img" src="{{ url_for('static', path='/images/대학원탈출일지.png') }}" alt="학생들 이미지" />
+        </div>
+    </div>
+    <div class="input-container">
+        <textarea id="user-input" placeholder="여기에 질문을 입력하세요..." required></textarea>
+        <button id="send-button" onclick="submitQuestion()">전송</button>
+        <select id="model-select">
+            <option value="LLAMA">LLAMA</option>
+            <option value="GPT">GPT</option>
+        </select>
+        <div id="spinner" class="spinner" style="display: none;"></div>
+    </div>
+    <script type="text/javascript" src="{{ url_for('static', path='/js/script.js') }}"></script>
+</body>
+</html>
+
+
+<!--
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -29,6 +68,7 @@
     <script type="text/javascript" src="{{ url_for('static', path='/js/style.js') }}"></script>
 </body>
 </html>
+-->
 
 <!--
 <script>
