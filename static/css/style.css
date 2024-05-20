@@ -183,7 +183,7 @@ textarea:focus, button:focus, select:focus {
     outline: none;
 }
 
-#model-select {
+#model_type {
     padding: 10px;
     border-radius: 5px;
     border: 1px solid #ccc;

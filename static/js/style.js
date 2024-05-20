@@ -1,10 +1,15 @@
 // js관련 파일입니다.
 function submitQuestion() {
-    const userInput = document.getElementById('user-input').value;
-    const modelType = document.getElementById('model-select').value;
+    const url = 'http://localhost:8000/send_query';
+    const data = {
+        model_type: document.getElementById('model_type').value,
+        query: document.getElementById('user-input').value
+    };
+    //const userInput = document.getElementById('user-input').value;
+    //const modelType = document.getElementById('model_type').value;
     const sendButton = document.getElementById('send-button');
     const spinner = document.getElementById('spinner');
-    const userQuestionDiv = document.getElementById('user-question');
+    //const userQuestionDiv = document.getElementById('user-question');
 
     if (userInput.trim() === "") {
         alert("질문을 입력하세요.");
@@ -19,6 +24,7 @@ function submitQuestion() {
     spinner.style.display = 'block';
 
     // 백엔드에 데이터 전송
+    /*
     fetch('/your-backend-endpoint', {
         method: 'POST',
         headers: {
@@ -29,11 +35,30 @@ function submitQuestion() {
             question: userInput
         }),
     })
+
     .then(response => response.json())
+
+    */
+    fetch(url, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(data)
+    })
+    .then(response => {
+        if (!response.ok) {
+            throw new Error('Network response was not ok');
+        }
+        return response.json();
+    })
     .then(data => {
         // 응답 데이터 처리
-        document.getElementById('professor-response').innerHTML = data.answer;
-        document.getElementById('professor-img').src = data.image;
+        document.getElementById('answer').textContent = data.answer;
+        const pictureUrl = '../static/image_data/' + decodeURIComponent(data.picture);
+        console.log(pictureUrl)
+        document.getElementById('picture').src = pictureUrl;
+        document.getElementById('picture').style.display = 'block'; // 이미지 표시
 
         // 전송 버튼 활성화 및 스피너 숨김
         sendButton.disabled = false;

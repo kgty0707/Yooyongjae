@@ -15,7 +15,7 @@
     <div class="chat-container">
         <div id="professor-image-container" class="professor-image-container">
             <div id="professor-response" class="arrow_box_prof">교수님 응답 (백엔드에서 전송받음)</div>
-            <img id="professor-img" src="{{ url_for('static', path='/images/professor_image.png') }}" alt="교수님 이미지" />
+            <img id="professor-img" alt="교수님 이미지" />
         </div>
         <div id="student-images-container" class="student-images-container">
             <div id="user-question" class="arrow_box_student">사용자 질문 (백엔드에 전송함)</div>
@@ -25,13 +25,13 @@
     <div class="input-container">
         <textarea id="user-input" placeholder="여기에 질문을 입력하세요..." required></textarea>
         <button id="send-button" onclick="submitQuestion()">전송</button>
-        <select id="model-select">
+        <select id="model_type">
             <option value="LLAMA">LLAMA</option>
             <option value="GPT">GPT</option>
         </select>
         <div id="spinner" class="spinner" style="display: none;"></div>
     </div>
-    <script type="text/javascript" src="{{ url_for('static', path='/js/script.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', path='/js/style.js') }}"></script>
 </body>
 </html>
 
