@@ -1,20 +1,21 @@
 // js관련 파일입니다.
 function submitQuestion() {
     const url = 'http://localhost:8000/send_query';
-    const data = {
-        model_type: document.getElementById('model_type').value,
-        query: document.getElementById('user-input').value
-    };
-    //const userInput = document.getElementById('user-input').value;
-    //const modelType = document.getElementById('model_type').value;
+    const modelType = document.getElementById('model-select').value;
+    const userInput = document.getElementById('user-input').value;
     const sendButton = document.getElementById('send-button');
     const spinner = document.getElementById('spinner');
-    //const userQuestionDiv = document.getElementById('user-question');
+    const userQuestionDiv = document.getElementById('user-question');
 
     if (userInput.trim() === "") {
         alert("질문을 입력하세요.");
         return;
     }
+
+    const data = {
+        model_type: modelType,
+        query: userInput
+    };
 
     // 사용자 질문을 핑크색 말풍선에 표시
     userQuestionDiv.innerHTML = userInput;
@@ -24,21 +25,6 @@ function submitQuestion() {
     spinner.style.display = 'block';
 
     // 백엔드에 데이터 전송
-    /*
-    fetch('/your-backend-endpoint', {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-            model: modelType,
-            question: userInput
-        }),
-    })
-
-    .then(response => response.json())
-
-    */
     fetch(url, {
         method: 'POST',
         headers: {
@@ -54,11 +40,9 @@ function submitQuestion() {
     })
     .then(data => {
         // 응답 데이터 처리
-        document.getElementById('answer').textContent = data.answer;
-        const pictureUrl = '../static/image_data/' + decodeURIComponent(data.picture);
-        console.log(pictureUrl)
-        document.getElementById('picture').src = pictureUrl;
-        document.getElementById('picture').style.display = 'block'; // 이미지 표시
+        document.getElementById('professor-response').innerHTML = data.answer;
+        const pictureUrl = '/static/images/' + encodeURIComponent(data.picture);
+        document.getElementById('professor-img').src = pictureUrl;
 
         // 전송 버튼 활성화 및 스피너 숨김
         sendButton.disabled = false;
@@ -72,6 +56,7 @@ function submitQuestion() {
         spinner.style.display = 'none';
     });
 }
+
 
 /*
 function submitQuestion() {
