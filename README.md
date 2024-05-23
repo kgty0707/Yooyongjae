@@ -1,5 +1,7 @@
-# Yooyongjae
+# To YOO
 for yongjae, to yongjae, by yongjae
+
+## System configuration diagram
 
 # Contribution
 - minju
