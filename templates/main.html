@@ -1,67 +1,36 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="kr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Professor TMI Chatbot</title>
-    <link rel="stylesheet" type="text/css" href="{{url_for('static', path='/css/style.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', path='css/style.css') }}">
 </head>
 <body>
-    <div class="Title">
-        <div id="web-title">Professor TMI Chatbot</div>
+    <div class="title">
+        <h1>Professor TMI Chatbot</h1>
+        <p>딥생성 팀프로젝트 과제는 RAG기반의 Application 개발 프로젝트이며, 저희 팀 프로젝트 주제는 “to yongjae, for yongjae, by yongjae”입니다. 이 프로젝트의 목표는 유용재 교수님의 정보를 크롤링하여 이를 기반으로 한 Chatbot을 개발하는 것입니다. 교수님의 사적이고 공적인 정보를 수집하여, 해당 정보를 기반으로 LLM 챗봇 서비스를 제공하려합니다. 재미 요소가 채점 1순위인만큼 교수님을 사랑하는 마음을 가득 담아 해당 Chatbot을 제작합니다. chatbot은 교수님의 연구 분야, 강의 내용, 경력 , 기타 TMI 등의 정보를 반영하여 사용자의 질문에 자동으로 답변할 수 있는 시스템을 목표로 합니다.
+        </p>
     </div>
-    <div class="chat-container">
-        <div class="professor-image-container">
-            <img id="professor-img" src="{{ url_for('static', path='/images/멋있는_인자한_깔끔한_양복_미소짓는_정면.png') }}" alt="Professor" />
-        </div>
-        <div class="chat-interface">
-            <div id="chat-history" class="chat-history"></div>
-            <textarea id="user-input" placeholder="여기에 질문을 입력하세요..."></textarea>
-            <div class="buttons">
-                <button onclick="submitQuestion()">전송</button>
-                <select id="model-select">
-                    <option value="model1">LLAMA</option>
-                    <option value="model2">GPT</option>
-                </select>
-            </div>
-        </div>
+   
+    <div id="professor-image-container" class="professor-image-container">
+        <div id="professor-response" class="arrow_box_prof">궁금한 점은 무엇이든 물어보세요~</div>
+        <img id="professor-img" src="{{ url_for('static', path= 'image_data/멋있는_인자한_깔끔한_양복_미소짓는_정면.png?after') }}" alt=" " />
     </div>
-    <script type="text/javascript" src="{{ url_for('static', path='/js/style.js') }}"></script>
+    <div id="student-images-container" class="student-images-container">
+        <div id="user-question" class="arrow_box_student">사용자의 질문이 표시됩니다</div>
+        <img id="students-img" src="{{ url_for('static', path='images/대학원탈출일지.png') }}" alt="학생들 이미지" />
+    </div>
+
+        <div class="input-container">
+            <textarea id="user-input" class="arrow_box_student" placeholder="여기에 질문을 입력하세요..." required></textarea>
+            <button id="send-button" onclick="submitQuestion()">전 송</button>
+            <select id="model-select">
+                <option value="LLAMA">LLAMA</option>
+                <option value="GPT">GPT</option>
+            </select>
+            <div id="spinner" class="spinner" style="display: none;"></div>
+        </div>
+    <script type="text/javascript" src="{{ url_for('static', path='js/style.js') }}"></script>
 </body>
 </html>
-
-<!--
-<script>
-    function submitQuestion() {
-        const userInput = document.getElementById('user-input').value.trim();
-        const chatHistory = document.getElementById('chat-history');
-    
-        // 사용자 입력을 말풍선으로 추가
-        let userBubble = document.createElement('div');
-        userBubble.classList.add('chat-message', 'user-message');
-        userBubble.innerText = userInput;
-        chatHistory.appendChild(userBubble);
-    
-        // 서버로 요청 보내기
-        fetch('/generate', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-            },
-            body: JSON.stringify({input_text: userInput})
-        })
-        .then(response => response.json())
-        .then(data => {
-            let professorResponse = data.response;
-            let professorBubble = document.createElement('div');
-            professorBubble.classList.add('chat-message', 'professor-message');
-            professorBubble.innerText = professorResponse;
-            chatHistory.appendChild(professorBubble);
-        })
-        .catch(error => console.error('Error:', error));
-    
-        // 입력창 초기화
-        document.getElementById('user-input').value = '';
-    }
-    </script>
--->    

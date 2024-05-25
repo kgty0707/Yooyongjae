@@ -1,123 +1,254 @@
-/* css 관련 파일입니다. */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f4f4f4;
+    background: url('/static/images/to Yoo.png') no-repeat center center fixed;
+    background-size: cover;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     height: 100vh;
     margin: 0;
 }
 
-.title-container {
+.title {
     text-align: center;
     width: 100%;
-    margin-bottom: 50px; /* Adjust space between title and chat container */
+    margin-bottom: 2em;
+    margin-top: 2em;
 }
 
-#web-title {
-    font-size: 50px;
+h1 {
+    font-size: 70px;
     font-weight: bold;
-    color: #004992;
+    color: #996e52;
     margin: 10px;
+    padding: 20px;
 }
 
-.chat-container {
-    width: 1000px;
-    background-color: #fff;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    font-size: 14px;
+p {
+    margin: 0 auto;
+    width: 60%;
+    color: #996e52;
+    font-size: 20px;
+    font-weight: bold;
 }
 
 .professor-image-container {
-    width: 100%;
+    width: 80%;
+    height: 70%;
     display: flex;
-    justify-content: center;
-    padding: 20px;
-    background-color: #e8e8e8;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: rgba(255, 255, 255, 0.0);
+    margin-left: 20%;
+    position: relative;
+    border-radius: 10px;
 }
 
 #professor-img {
-    width: 500px;
-    height: 500px;
-    border-radius: 30%;
+    height: 100%;
+    width: auto;
+    border-radius: 10px;
+    object-fit: contain;
+    margin-left: 20px;
+}
+
+.arrow_box_prof {
+    align-content: center;
+    position: relative;
+    background: #deedfb;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+    opacity: 1;
+    font-size: 20px;
+    font-weight: bold;
+    max-width: 30%;
+    text-align: left;
+    order: 0;
+    height: auto;
+}
+
+.arrow_box_prof:after {
+    content: "";
+    position: absolute;
+    left: 100%;
+    top: 50%;
+    margin-top: -10px;
+    border: solid transparent;
+    height: 0;
+    width: 0;
+    pointer-events: none;
+    border-color: rgba(111, 149, 173, 0);
+    border-left-color: #deedfb;
+    border-width: 10px;
+}
+
+.student-images-container {
+    width: 80%;
+    height: 20%;
+    margin-right: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    background-color: rgba(255, 255, 255, 0);
+ 
+    position: relative;
+    border-radius: 10px;
+    order: 2;
+}
+
+/*
+.arrow_box_student {
+    align-content: center;
+    position: relative;
+    background: #fbe2de;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+    opacity: 1;
+    font-size: 20px;
+    font-weight: bold;
+    width: auto;
+    text-align: left;
+    order: 0;
+    height: auto;
+};
+
+.arrow_box_student:after {
+    content: "";
+    position: absolute;
+    right: 100%;
+    top: 50%;
+    margin-top: -10px;
+    border: solid transparent;
+    height: 0;
+    width: 0;
+    pointer-events: none;
+    border-color: rgba(111, 149, 173, 0);
+    border-right-color: #deedfb;
+    border-width: 10px;
+}
+*/
+.arrow_box_student {
+    align-content: center;
+    position: relative;
+    background: #fbe2de;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+    opacity: 1;
+    font-size: 20px;
+    font-weight: bold;
+    max-width: 30%;
+    text-align: left;
+    order: 0;
+    height: auto;
+}
+
+.arrow_box_student:after {
+    content: "";
+    position: absolute;
+    left: 100%;
+    top: 50%;
+    margin-top: -10px;
+    border: solid transparent;
+    height: 0;
+    width: 0;
+    pointer-events: none;
+    border-color: rgba(111, 149, 173, 0);
+    border-left-color: #fbe2de;
+    border-width: 10px;
+}
+
+#students-img {
+    margin-left: 1em;
+    justify-content: flex-end;
+    width: 20%;
+    height: auto;
+    border-radius: 10px;
     object-fit: cover;
 }
 
-.chat-interface {
-    padding: 20px;
+.input-container {
     display: flex;
-    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     gap: 10px;
+    width: 40%;
+    height: 10%;
+    padding: 10px;
+    background-color: rgba(255, 223, 223, 0.5);
+    border-radius: 10px;
+    margin-top: auto; /* Make sure it is at the bottom */
+    margin-bottom: 1%;
+    order: 3;
 }
 
-.chat-history {
-    height: 300px;
-    overflow-y: auto;
-    background-color: #fafafa;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-}
-
-textarea {
-    height: 50px;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    resize: none;
-    text-align: right;
+#user-input {
+    position: relative;
+    background: #d1bdb0;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    
+    opacity: 1;
+    font-size: 15px;
+    font-weight: bold;
+    width: 700px;
+    text-align: left;
+    order: 0;
+    height: 40%;
 }
 
 button {
-    background-color: #007bff;
-    color: white;
+    background-color: #d1bdb0;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
     padding: 10px 15px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    opacity: 1;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 70px;
+    height: auto;
 }
 
-textarea:focus, button:focus, select:focus {
+button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+button:focus, select:focus {
     outline: none;
 }
 
-.buttons {
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    gap: 10px;
-}
-
 #model-select {
+    margin-right: 1em;
     padding: 10px;
     border-radius: 5px;
     border: 1px solid #ccc;
     background-color: white;
     cursor: pointer;
+    opacity: 1;
+    width: 100px;
+    height: auto;
 }
 
-.chat-message {
-    padding: 10px;
-    margin-bottom: 5px;
-    border-radius: 15px;
-    width: auto;
-    max-width: 100%;
+.spinner {
+    margin: 1em;
+    border: 4px solid #d1bdb0;
+    border-top: 4px solid #99cdfd;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    animation: spin 2s linear infinite;
+    opacity: 1;
+    display: none;
 }
 
-.user-message {
-    background-color: #c2e0ff;
-    align-self: flex-end;
-    text-align: right;
-}
-
-.professor-message {
-    background-color: #ffc2cb;
-    align-self: flex-start;
-    text-align: left; 
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
 }
