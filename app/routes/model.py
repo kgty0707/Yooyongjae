@@ -33,7 +33,9 @@ def generate_answer(request_data):
     prompt = request_data['prompt']
     model_type = request_data['model_type']
     content = search_by_query(prompt)
-    if model_type == 'gpt-3.5-turbo':
+    if model_type == 'GPT':
+        model_type="gpt-3.5-turbo"
+        print(model_type)
         answer = gen_gpt(prompt, model_type, content)
     else:
         answer = gen_etc(prompt, content)
@@ -52,10 +54,11 @@ def gen_gpt(query, model_type, content):
         "content": "You are a professor in korea"
     }, {
         "role": "user",
-        "content": f"Write in the tone of a professor speaking to students and Please write in Korean. \nquestion: {query} \ninformation: {content} "
+        "content": f"You are a professor, Write in the tone of a professor speaking to students and Please write in Korean. \nquestion: {query} \nreference: {content}"
     }]
 
     print('prompt: ', messages)
+
     response = client.chat.completions.create(
         model=model_type,
         messages=messages,
