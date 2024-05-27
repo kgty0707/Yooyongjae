@@ -1,5 +1,17 @@
+.cute-font-regular {
+    font-family: "Cute Font", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.east-sea-dokdo-regular {
+font-family: "East Sea Dokdo", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Cute Font', sans-serif;
     background: url('/static/images/to Yoo.png') no-repeat center center fixed;
     background-size: cover;
     display: flex;
@@ -14,23 +26,24 @@ body {
     text-align: center;
     width: 100%;
     margin-bottom: 2em;
-    margin-top: 2em;
+    
 }
 
 h1 {
-    font-size: 70px;
+    font-size: 150px;
     font-weight: bold;
-    color: #996e52;
-    margin: 10px;
-    padding: 20px;
+    color: #533b2b;
+    margin: 1px;
+    
 }
 
 p {
     margin: 0 auto;
-    width: 60%;
-    color: #996e52;
-    font-size: 20px;
+    width: 70%;
+    color: #533b2b;
+    font-size: 30px;
     font-weight: bold;
+    
 }
 
 .professor-image-container {
@@ -50,10 +63,13 @@ p {
     width: auto;
     border-radius: 10px;
     object-fit: contain;
-    margin-left: 20px;
+    margin-left: 50px;
 }
 
 .arrow_box_prof {
+    font-family: "East Sea Dokdo", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     align-content: center;
     position: relative;
     background: #deedfb;
@@ -61,8 +77,8 @@ p {
     border-radius: 10px;
     padding: 10px;
     opacity: 1;
-    font-size: 20px;
-    font-weight: bold;
+    font-size: 35px;
+    /*font-weight: bold;*/
     max-width: 30%;
     text-align: left;
     order: 0;
@@ -138,7 +154,7 @@ p {
     border-radius: 10px;
     padding: 10px;
     opacity: 1;
-    font-size: 20px;
+    font-size: 35px;
     font-weight: bold;
     max-width: 30%;
     text-align: left;
