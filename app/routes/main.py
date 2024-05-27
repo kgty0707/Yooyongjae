@@ -38,8 +38,7 @@ def main(request: Request):
 def send_query(request: Request, data: Query):
 
     model_type = Model(data.model_type).get_model_type()
-
-    print(model_type)
+    print("모델 타입:", model_type)
     
     request_data = {
         'prompt': data.query,

@@ -29,7 +29,7 @@ class Model:
         self.model_type = model_type
 
     def get_model_type(self):
-        if self.model_type == 'gpt-3.5-turbo':
+        if self.model_type == 'GPT':
             return self.model_type
         elif self.model_type == 'player1537/Dolphinette':
             return self.model_type
